@@ -1,0 +1,7138 @@
+[
+  {
+    "name": "IK イタリア",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.25979,
+    "lng": 130.301133,
+    "has_exact_location": true
+  },
+  {
+    "name": "IK バル",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.259803,
+    "lng": 130.301186,
+    "has_exact_location": true
+  },
+  {
+    "name": "あい菜食堂",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.250817,
+    "lng": 130.304722,
+    "has_exact_location": true
+  },
+  {
+    "name": "青い月",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.249711,
+    "lng": 130.306838,
+    "has_exact_location": true
+  },
+  {
+    "name": "味彩おかもと",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.263995,
+    "lng": 130.295837,
+    "has_exact_location": true
+  },
+  {
+    "name": "あじみ",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.257697,
+    "lng": 130.301344,
+    "has_exact_location": true
+  },
+  {
+    "name": "アップシャン",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.257124,
+    "lng": 130.301428,
+    "has_exact_location": true
+  },
+  {
+    "name": "アトランティックカフェ",
+    "category": "飲食店",
+    "area": "川副",
+    "lat": 33.212147,
+    "lng": 130.312972,
+    "has_exact_location": true
+  },
+  {
+    "name": "アニバーサリー",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.254491,
+    "lng": 130.302164,
+    "has_exact_location": true
+  },
+  {
+    "name": "有馬うどん",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.234669,
+    "lng": 130.326368,
+    "has_exact_location": true
+  },
+  {
+    "name": "ARLES",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.254221,
+    "lng": 130.299001,
+    "has_exact_location": true
+  },
+  {
+    "name": "あんしんベーカリー シャルマン",
+    "category": "飲食店",
+    "area": "佐賀西部",
+    "lat": 33.255432,
+    "lng": 130.271065,
+    "has_exact_location": true
+  },
+  {
+    "name": "E.A.D",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.260402,
+    "lng": 130.299196,
+    "has_exact_location": true
+  },
+  {
+    "name": "イエロースパイス",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.261204,
+    "lng": 130.298648,
+    "has_exact_location": true
+  },
+  {
+    "name": "いけす海幸",
+    "category": "飲食店",
+    "area": "佐賀西部",
+    "lat": 33.245023,
+    "lng": 130.276449,
+    "has_exact_location": true
+  },
+  {
+    "name": "池田屋",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.244789,
+    "lng": 130.294357,
+    "has_exact_location": true
+  },
+  {
+    "name": "いざかや 飛鳥",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.258985,
+    "lng": 130.301313,
+    "has_exact_location": true
+  },
+  {
+    "name": "居酒屋あふりか商店",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.255735,
+    "lng": 130.267712,
+    "has_exact_location": true
+  },
+  {
+    "name": "居酒屋 宇礼志野",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.256038,
+    "lng": 130.301636,
+    "has_exact_location": true
+  },
+  {
+    "name": "居酒屋金柑南口店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.26271,
+    "lng": 130.298477,
+    "has_exact_location": true
+  },
+  {
+    "name": "居酒屋こがんちゃ家",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.25024,
+    "lng": 130.294215,
+    "has_exact_location": true
+  },
+  {
+    "name": "いしむら高木瀬店",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.28519,
+    "lng": 130.297775,
+    "has_exact_location": true
+  },
+  {
+    "name": "いしむら本庄店",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.247035,
+    "lng": 130.28527,
+    "has_exact_location": true
+  },
+  {
+    "name": "板前料理 まる新",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.253355,
+    "lng": 130.301969,
+    "has_exact_location": true
+  },
+  {
+    "name": "一膳一献 お豆",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.252823,
+    "lng": 130.303764,
+    "has_exact_location": true
+  },
+  {
+    "name": "囲炉裏 吟",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.2544,
+    "lng": 130.303023,
+    "has_exact_location": true
+  },
+  {
+    "name": "ヴィノバル TOCCO",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.255577,
+    "lng": 130.300338,
+    "has_exact_location": true
+  },
+  {
+    "name": "魚はち 佐賀大和店",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.306496,
+    "lng": 130.282582,
+    "has_exact_location": true
+  },
+  {
+    "name": "うふふらーめん",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.264394,
+    "lng": 130.298533,
+    "has_exact_location": true
+  },
+  {
+    "name": "旨味辛麺 ISSA",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.241648,
+    "lng": 130.27837,
+    "has_exact_location": true
+  },
+  {
+    "name": "Urandeux(ウラン堂)",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.25426,
+    "lng": 130.299486,
+    "has_exact_location": true
+  },
+  {
+    "name": "嬉乃すし",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.273465,
+    "lng": 130.290159,
+    "has_exact_location": true
+  },
+  {
+    "name": "駅前ワイン食堂 BIBI",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.261703,
+    "lng": 130.298791,
+    "has_exact_location": true
+  },
+  {
+    "name": "エルカフェ",
+    "category": "飲食店",
+    "area": "諸富",
+    "lat": 33.229466,
+    "lng": 130.337966,
+    "has_exact_location": true
+  },
+  {
+    "name": "大橋うなぎ屋",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.249684,
+    "lng": 130.304508,
+    "has_exact_location": true
+  },
+  {
+    "name": "orville",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.254763,
+    "lng": 130.30142,
+    "has_exact_location": true
+  },
+  {
+    "name": "お魚ごはんと居食処蛮屋",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.239721,
+    "lng": 130.285579,
+    "has_exact_location": true
+  },
+  {
+    "name": "おさかな家嬉乃",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.2663,
+    "lng": 130.306164,
+    "has_exact_location": true
+  },
+  {
+    "name": "御食事処 ツル",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.254805,
+    "lng": 130.307278,
+    "has_exact_location": true
+  },
+  {
+    "name": "御食事処 久坊",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.263044,
+    "lng": 130.292023,
+    "has_exact_location": true
+  },
+  {
+    "name": "お食事処 丸徳",
+    "category": "飲食店",
+    "area": "川副",
+    "lat": 33.257037,
+    "lng": 130.294894,
+    "has_exact_location": true
+  },
+  {
+    "name": "鬼へい寿司 佐賀兵庫店",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.277663,
+    "lng": 130.311718,
+    "has_exact_location": true
+  },
+  {
+    "name": "OPTIM カフェ",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.240434,
+    "lng": 130.289449,
+    "has_exact_location": true
+  },
+  {
+    "name": "お宿 夢千鳥",
+    "category": "飲食店",
+    "area": "富士",
+    "lat": 33.36493,
+    "lng": 130.240407,
+    "has_exact_location": true
+  },
+  {
+    "name": "オリジンコーヒー",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.263852,
+    "lng": 130.320633,
+    "has_exact_location": true
+  },
+  {
+    "name": "俺流 情熱店 中村屋",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.30636,
+    "lng": 130.267732,
+    "has_exact_location": true
+  },
+  {
+    "name": "海渡",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.256368,
+    "lng": 130.301149,
+    "has_exact_location": true
+  },
+  {
+    "name": "香光",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.262949,
+    "lng": 130.297335,
+    "has_exact_location": true
+  },
+  {
+    "name": "菓子工房リーブ",
+    "category": "飲食店",
+    "area": "東与賀",
+    "lat": 33.202041,
+    "lng": 130.289074,
+    "has_exact_location": true
+  },
+  {
+    "name": "雅叙苑",
+    "category": "飲食店",
+    "area": "佐賀西部",
+    "lat": 33.340937,
+    "lng": 130.426829,
+    "has_exact_location": true
+  },
+  {
+    "name": "嘉すがい GARAGE",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.258215,
+    "lng": 130.299621,
+    "has_exact_location": true
+  },
+  {
+    "name": "かせ食堂",
+    "category": "飲食店",
+    "area": "佐賀西部",
+    "lat": 33.243421,
+    "lng": 130.258817,
+    "has_exact_location": true
+  },
+  {
+    "name": "活魚ランチ×居酒屋海源",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.279693,
+    "lng": 130.266875,
+    "has_exact_location": true
+  },
+  {
+    "name": "kassai",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.261716,
+    "lng": 130.295097,
+    "has_exact_location": true
+  },
+  {
+    "name": "割烹仕出し 魚善",
+    "category": "飲食店",
+    "area": "諸富",
+    "lat": 33.236958,
+    "lng": 130.355444,
+    "has_exact_location": true
+  },
+  {
+    "name": "かつや 佐賀本庄店",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.23907,
+    "lng": 130.306792,
+    "has_exact_location": true
+  },
+  {
+    "name": "家庭料理 さくら",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.259219,
+    "lng": 130.298146,
+    "has_exact_location": true
+  },
+  {
+    "name": "家庭料理なな",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.250109,
+    "lng": 130.2982,
+    "has_exact_location": true
+  },
+  {
+    "name": "叶家",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.252975,
+    "lng": 130.303363,
+    "has_exact_location": true
+  },
+  {
+    "name": "かばち",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.255569,
+    "lng": 130.301844,
+    "has_exact_location": true
+  },
+  {
+    "name": "CAFE 木と本",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.257052,
+    "lng": 130.299287,
+    "has_exact_location": true
+  },
+  {
+    "name": "Cafe Tomita",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.255002,
+    "lng": 130.299106,
+    "has_exact_location": true
+  },
+  {
+    "name": "カフェトレス",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.245001,
+    "lng": 130.300754,
+    "has_exact_location": true
+  },
+  {
+    "name": "カフェ バー Arbre",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.254896,
+    "lng": 130.302897,
+    "has_exact_location": true
+  },
+  {
+    "name": "カフェパンゲア",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.259658,
+    "lng": 130.290684,
+    "has_exact_location": true
+  },
+  {
+    "name": "カフェレトロ",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.268657,
+    "lng": 130.298065,
+    "has_exact_location": true
+  },
+  {
+    "name": "かぶと寿司",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.279999,
+    "lng": 130.282331,
+    "has_exact_location": true
+  },
+  {
+    "name": "辛麺屋 桝元 佐賀本庄店",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.238983,
+    "lng": 130.297233,
+    "has_exact_location": true
+  },
+  {
+    "name": "辛麺屋 桝元 夢咲店",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.273749,
+    "lng": 130.30653,
+    "has_exact_location": true
+  },
+  {
+    "name": "甘笑堂",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.269509,
+    "lng": 130.28617,
+    "has_exact_location": true
+  },
+  {
+    "name": "亀おたけ",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.254921,
+    "lng": 130.299342,
+    "has_exact_location": true
+  },
+  {
+    "name": "菊正寿司",
+    "category": "飲食店",
+    "area": "久保田",
+    "lat": 33.219879,
+    "lng": 130.247459,
+    "has_exact_location": false
+  },
+  {
+    "name": "きくやの台所",
+    "category": "飲食店",
+    "area": "久保田",
+    "lat": 33.218657,
+    "lng": 130.255359,
+    "has_exact_location": false
+  },
+  {
+    "name": "キサック BANKO",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.253891,
+    "lng": 130.302174,
+    "has_exact_location": true
+  },
+  {
+    "name": "KITCHEN&BAR 颯",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.254658,
+    "lng": 130.299958,
+    "has_exact_location": true
+  },
+  {
+    "name": "きっちん とも",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.321638,
+    "lng": 130.272482,
+    "has_exact_location": true
+  },
+  {
+    "name": "キッチンモイ・モイ",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.244554,
+    "lng": 130.289349,
+    "has_exact_location": true
+  },
+  {
+    "name": "木原鰻屋",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.253336,
+    "lng": 130.298891,
+    "has_exact_location": true
+  },
+  {
+    "name": "木原鰻屋分店",
+    "category": "飲食店",
+    "area": "佐賀西部",
+    "lat": 33.249022,
+    "lng": 130.283151,
+    "has_exact_location": true
+  },
+  {
+    "name": "GIVE&GIVEN",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.259042,
+    "lng": 130.301118,
+    "has_exact_location": true
+  },
+  {
+    "name": "きみどりバーガー神園店",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.261973,
+    "lng": 130.28364,
+    "has_exact_location": true
+  },
+  {
+    "name": "きみどりバーガー諸富店",
+    "category": "飲食店",
+    "area": "諸富",
+    "lat": 33.21744,
+    "lng": 130.360111,
+    "has_exact_location": true
+  },
+  {
+    "name": "牛角 兵庫南店",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.260797,
+    "lng": 130.318972,
+    "has_exact_location": true
+  },
+  {
+    "name": "牛匠",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.272903,
+    "lng": 130.287073,
+    "has_exact_location": true
+  },
+  {
+    "name": "餃子酒場 Tomoru 屋",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.266329,
+    "lng": 130.286112,
+    "has_exact_location": true
+  },
+  {
+    "name": "餃子酒家 Tomoru",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.266329,
+    "lng": 130.286112,
+    "has_exact_location": true
+  },
+  {
+    "name": "餃子のぜん",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.25738,
+    "lng": 130.301179,
+    "has_exact_location": true
+  },
+  {
+    "name": "ぎょうざ屋",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.259918,
+    "lng": 130.125375,
+    "has_exact_location": true
+  },
+  {
+    "name": "京風茶房 おちょぼ",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.255308,
+    "lng": 130.302823,
+    "has_exact_location": true
+  },
+  {
+    "name": "魚亭菊や大和店",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.307481,
+    "lng": 130.252585,
+    "has_exact_location": true
+  },
+  {
+    "name": "金ちゃんラーメン",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.302936,
+    "lng": 130.283455,
+    "has_exact_location": true
+  },
+  {
+    "name": "金立 SA㊦ スナックコート",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.328196,
+    "lng": 130.312188,
+    "has_exact_location": true
+  },
+  {
+    "name": "金立 SA㊦ レストラン",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.329177,
+    "lng": 130.31167,
+    "has_exact_location": true
+  },
+  {
+    "name": "金立 SA㊤ スナックコート",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.328196,
+    "lng": 130.312188,
+    "has_exact_location": true
+  },
+  {
+    "name": "金立 SA㊤ レストラン",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.329177,
+    "lng": 130.31167,
+    "has_exact_location": true
+  },
+  {
+    "name": "くいしんぼ茶屋 豪ちゃん",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.251927,
+    "lng": 130.305864,
+    "has_exact_location": true
+  },
+  {
+    "name": "食想市場元気じるし",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.26748,
+    "lng": 130.296602,
+    "has_exact_location": true
+  },
+  {
+    "name": "串カツ イマイ",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.261562,
+    "lng": 130.298269,
+    "has_exact_location": true
+  },
+  {
+    "name": "串かつ七福神",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.279662,
+    "lng": 130.284273,
+    "has_exact_location": true
+  },
+  {
+    "name": "串焼き・串揚げ一文字",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.244765,
+    "lng": 130.294297,
+    "has_exact_location": true
+  },
+  {
+    "name": "くらおか亭",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.26296,
+    "lng": 130.2999,
+    "has_exact_location": true
+  },
+  {
+    "name": "グラスオニオン",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.252841,
+    "lng": 130.302026,
+    "has_exact_location": true
+  },
+  {
+    "name": "クラフトミート福一",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.25818,
+    "lng": 130.298955,
+    "has_exact_location": true
+  },
+  {
+    "name": "グリルタケシタ",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.26309,
+    "lng": 130.299673,
+    "has_exact_location": true
+  },
+  {
+    "name": "くれそん",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.364273,
+    "lng": 130.261403,
+    "has_exact_location": true
+  },
+  {
+    "name": "黒豚料理の店 万八",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.285167,
+    "lng": 130.26858,
+    "has_exact_location": true
+  },
+  {
+    "name": "鶏仙",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.252813,
+    "lng": 130.303703,
+    "has_exact_location": true
+  },
+  {
+    "name": "ケーキのハルツ",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.312225,
+    "lng": 130.280362,
+    "has_exact_location": true
+  },
+  {
+    "name": "ゲストハウス＆日本酒バー",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.260083,
+    "lng": 130.298947,
+    "has_exact_location": true
+  },
+  {
+    "name": "HAGAKURE",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.293373,
+    "lng": 130.313038,
+    "has_exact_location": true
+  },
+  {
+    "name": "ケンタッキーフライドチキン佐賀鍋島店",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.271843,
+    "lng": 130.272501,
+    "has_exact_location": true
+  },
+  {
+    "name": "ケンタッキーフライドチキン佐賀南部バイパス店",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.240474,
+    "lng": 130.28032,
+    "has_exact_location": true
+  },
+  {
+    "name": "ケンタッキーフライドチキンゆめタウン佐賀店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.275621,
+    "lng": 130.307926,
+    "has_exact_location": true
+  },
+  {
+    "name": "光楽園",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.254215,
+    "lng": 130.301662,
+    "has_exact_location": true
+  },
+  {
+    "name": "個室佐賀牛 牛笑",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.261234,
+    "lng": 130.298804,
+    "has_exact_location": true
+  },
+  {
+    "name": "ご馳もんうる寅",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.25201,
+    "lng": 130.30076,
+    "has_exact_location": true
+  },
+  {
+    "name": "コメダ珈琲店 佐賀兵庫店",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.268019,
+    "lng": 130.306011,
+    "has_exact_location": true
+  },
+  {
+    "name": "コリアンキッチン虎羽空",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.325599,
+    "lng": 130.330633,
+    "has_exact_location": true
+  },
+  {
+    "name": "小料理じん吉",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.257631,
+    "lng": 130.301196,
+    "has_exact_location": true
+  },
+  {
+    "name": "SAPO",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.260401,
+    "lng": 130.299187,
+    "has_exact_location": true
+  },
+  {
+    "name": "サーティワンアイスクリーム イオンモ",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.304166,
+    "lng": 130.280573,
+    "has_exact_location": true
+  },
+  {
+    "name": "ール佐賀大和店",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.312826,
+    "lng": 130.27543,
+    "has_exact_location": true
+  },
+  {
+    "name": "サーティワンアイスクリーム モラージ",
+    "category": "飲食店",
+    "area": "佐賀西部",
+    "lat": 33.252361,
+    "lng": 130.31887,
+    "has_exact_location": true
+  },
+  {
+    "name": "ュ佐賀店",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.277278,
+    "lng": 130.300477,
+    "has_exact_location": true
+  },
+  {
+    "name": "サーティワンアイスクリーム ゆめマー",
+    "category": "飲食店",
+    "area": "久保田",
+    "lat": 33.248997,
+    "lng": 130.291692,
+    "has_exact_location": true
+  },
+  {
+    "name": "トさが店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.258233,
+    "lng": 130.288996,
+    "has_exact_location": true
+  },
+  {
+    "name": "佐賀牛 練光亭 明月館",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.275951,
+    "lng": 130.285782,
+    "has_exact_location": true
+  },
+  {
+    "name": "酒菜 志波",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.242641,
+    "lng": 130.241702,
+    "has_exact_location": true
+  },
+  {
+    "name": "SAGA BAR",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.263991,
+    "lng": 130.296634,
+    "has_exact_location": true
+  },
+  {
+    "name": "佐賀和牛ハンバーグまるも",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.275618,
+    "lng": 130.304916,
+    "has_exact_location": true
+  },
+  {
+    "name": "さがん大地",
+    "category": "飲食店",
+    "area": "諸富",
+    "lat": 33.259793,
+    "lng": 130.297571,
+    "has_exact_location": true
+  },
+  {
+    "name": "さがんれすとらん志乃 空港店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.153214,
+    "lng": 130.303101,
+    "has_exact_location": true
+  },
+  {
+    "name": "さがんれすとらん志乃 県庁店",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.249367,
+    "lng": 130.298822,
+    "has_exact_location": true
+  },
+  {
+    "name": "酒食処華",
+    "category": "飲食店",
+    "area": "富士",
+    "lat": 33.223461,
+    "lng": 130.35841,
+    "has_exact_location": true
+  },
+  {
+    "name": "酒と飯 豆たん",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.263195,
+    "lng": 130.299166,
+    "has_exact_location": true
+  },
+  {
+    "name": "酒の蔵えん",
+    "category": "飲食店",
+    "area": "諸富",
+    "lat": 33.247342,
+    "lng": 130.278011,
+    "has_exact_location": true
+  },
+  {
+    "name": "茶房 桜湖",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.440397,
+    "lng": 130.258713,
+    "has_exact_location": true
+  },
+  {
+    "name": "産地直送仲買人直営店 蔵",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.257434,
+    "lng": 130.301179,
+    "has_exact_location": true
+  },
+  {
+    "name": "三平寿し",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.222489,
+    "lng": 130.360832,
+    "has_exact_location": true
+  },
+  {
+    "name": "自家焙煎珈琲 アトリエ Kamin",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.31125,
+    "lng": 130.285919,
+    "has_exact_location": true
+  },
+  {
+    "name": "シャトー文雅",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.317355,
+    "lng": 130.276905,
+    "has_exact_location": true
+  },
+  {
+    "name": "Xiang Li（シャンリー）〜はなれ〜",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.264787,
+    "lng": 130.298233,
+    "has_exact_location": true
+  },
+  {
+    "name": "酒肴吉井",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.260193,
+    "lng": 130.298108,
+    "has_exact_location": true
+  },
+  {
+    "name": "旬肴酒場 清みず",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.262832,
+    "lng": 130.298358,
+    "has_exact_location": true
+  },
+  {
+    "name": "旬彩しげる",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.262205,
+    "lng": 130.295589,
+    "has_exact_location": true
+  },
+  {
+    "name": "旬菜美食 おゆき",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.22107,
+    "lng": 130.308407,
+    "has_exact_location": true
+  },
+  {
+    "name": "旬菜和食 夢咲屋",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.27011,
+    "lng": 130.30123,
+    "has_exact_location": true
+  },
+  {
+    "name": "旬の鮮魚と炉端焼き えくぼ家",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.264075,
+    "lng": 130.295482,
+    "has_exact_location": true
+  },
+  {
+    "name": "JONAI SQUARE CAFE",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.246633,
+    "lng": 130.300616,
+    "has_exact_location": true
+  },
+  {
+    "name": "小籠包茶樓 龍哉 佐賀神野店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.265071,
+    "lng": 130.283364,
+    "has_exact_location": true
+  },
+  {
+    "name": "食彩 瑠璃",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.263039,
+    "lng": 130.300061,
+    "has_exact_location": true
+  },
+  {
+    "name": "じんぎすかん",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.259615,
+    "lng": 130.299815,
+    "has_exact_location": true
+  },
+  {
+    "name": "新時代 佐賀駅北口店",
+    "category": "飲食店",
+    "area": "諸富",
+    "lat": 33.264561,
+    "lng": 130.297734,
+    "has_exact_location": true
+  },
+  {
+    "name": "SUIVIE",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.253484,
+    "lng": 130.303182,
+    "has_exact_location": true
+  },
+  {
+    "name": "すし栄",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.256551,
+    "lng": 130.30126,
+    "has_exact_location": true
+  },
+  {
+    "name": "すし和",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.223053,
+    "lng": 130.357117,
+    "has_exact_location": true
+  },
+  {
+    "name": "鮨・割烹 いち善",
+    "category": "飲食店",
+    "area": "川副",
+    "lat": 33.269641,
+    "lng": 130.287122,
+    "has_exact_location": true
+  },
+  {
+    "name": "鮨割烹ぎんえん",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.255446,
+    "lng": 130.301671,
+    "has_exact_location": true
+  },
+  {
+    "name": "寿司割烹 新太郎",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.257073,
+    "lng": 130.34041,
+    "has_exact_location": false
+  },
+  {
+    "name": "寿司 和食 うみおと",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.204148,
+    "lng": 130.314249,
+    "has_exact_location": true
+  },
+  {
+    "name": "ステーキ＆ハンバーグ EBISU",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.253687,
+    "lng": 130.303829,
+    "has_exact_location": true
+  },
+  {
+    "name": "ステーキまる兵庫店",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.263393,
+    "lng": 130.315702,
+    "has_exact_location": true
+  },
+  {
+    "name": "スナック恋さん",
+    "category": "飲食店",
+    "area": "三瀬",
+    "lat": 33.258049,
+    "lng": 130.301172,
+    "has_exact_location": true
+  },
+  {
+    "name": "sportsbar CRON",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.26107,
+    "lng": 130.300851,
+    "has_exact_location": true
+  },
+  {
+    "name": "炭寅佐賀店",
+    "category": "飲食店",
+    "area": "久保田",
+    "lat": 33.264789,
+    "lng": 130.296593,
+    "has_exact_location": true
+  },
+  {
+    "name": "炭火焼 炭炎",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.436536,
+    "lng": 130.269179,
+    "has_exact_location": true
+  },
+  {
+    "name": "炭火焼居酒屋 一福",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.259605,
+    "lng": 130.299905,
+    "has_exact_location": true
+  },
+  {
+    "name": "炭火焼 一円玉",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.249421,
+    "lng": 130.22838,
+    "has_exact_location": true
+  },
+  {
+    "name": "炭火焼処けむり",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.259402,
+    "lng": 130.293653,
+    "has_exact_location": true
+  },
+  {
+    "name": "炭火焼肉 うしまつ",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.265552,
+    "lng": 130.316576,
+    "has_exact_location": true
+  },
+  {
+    "name": "炭火焼肉 牛牛",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.25811,
+    "lng": 130.301157,
+    "has_exact_location": true
+  },
+  {
+    "name": "炭火焼肉まるじゅう",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.252861,
+    "lng": 130.305672,
+    "has_exact_location": true
+  },
+  {
+    "name": "炭焼 もつ鍋 八重桜",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.236504,
+    "lng": 130.322086,
+    "has_exact_location": true
+  },
+  {
+    "name": "創作居酒屋カミーノ",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.257645,
+    "lng": 130.301611,
+    "has_exact_location": true
+  },
+  {
+    "name": "創作厨房 更紗",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.27172,
+    "lng": 130.300951,
+    "has_exact_location": true
+  },
+  {
+    "name": "創食潤",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.261525,
+    "lng": 130.297541,
+    "has_exact_location": true
+  },
+  {
+    "name": "想夫恋佐賀兵庫店",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.268897,
+    "lng": 130.33045,
+    "has_exact_location": true
+  },
+  {
+    "name": "そば なか原",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.265193,
+    "lng": 130.248473,
+    "has_exact_location": true
+  },
+  {
+    "name": "大衆キッチン炭火屋ハッポウ",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.264642,
+    "lng": 130.298111,
+    "has_exact_location": true
+  },
+  {
+    "name": "大衆酒場 ニュームラハチ",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.27275,
+    "lng": 130.275099,
+    "has_exact_location": true
+  },
+  {
+    "name": "DINING GRASH",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.254824,
+    "lng": 130.301929,
+    "has_exact_location": true
+  },
+  {
+    "name": "たかもとや 佐賀医大東店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.282722,
+    "lng": 130.270146,
+    "has_exact_location": true
+  },
+  {
+    "name": "宝うどん",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.234088,
+    "lng": 130.275321,
+    "has_exact_location": true
+  },
+  {
+    "name": "立ち呑み屋のん",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.264765,
+    "lng": 130.298951,
+    "has_exact_location": true
+  },
+  {
+    "name": "たなかさんち",
+    "category": "飲食店",
+    "area": "富士",
+    "lat": 33.348212,
+    "lng": 130.237653,
+    "has_exact_location": false
+  },
+  {
+    "name": "卵かけご飯の店 レストランサーグラ",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.267076,
+    "lng": 130.313403,
+    "has_exact_location": true
+  },
+  {
+    "name": "たまご家・ひよこカフェ兵庫店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.263643,
+    "lng": 130.313928,
+    "has_exact_location": true
+  },
+  {
+    "name": "ダムの駅富士 しゃくなげの里",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.391846,
+    "lng": 130.214525,
+    "has_exact_location": true
+  },
+  {
+    "name": "馳走焔酒場とも蔵",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.263086,
+    "lng": 130.298352,
+    "has_exact_location": true
+  },
+  {
+    "name": "千鳥",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.310825,
+    "lng": 130.270093,
+    "has_exact_location": true
+  },
+  {
+    "name": "ぢどりや焔",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.281457,
+    "lng": 130.269118,
+    "has_exact_location": true
+  },
+  {
+    "name": "cipolla",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.259785,
+    "lng": 130.300108,
+    "has_exact_location": true
+  },
+  {
+    "name": "チャイナ梅の花佐賀大和店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.307061,
+    "lng": 130.276559,
+    "has_exact_location": true
+  },
+  {
+    "name": "中華料理 萬福",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.240765,
+    "lng": 130.279571,
+    "has_exact_location": true
+  },
+  {
+    "name": "中華料理 味楽来",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.255604,
+    "lng": 130.268383,
+    "has_exact_location": true
+  },
+  {
+    "name": "中国料理 栄志",
+    "category": "飲食店",
+    "area": "三瀬",
+    "lat": 33.252585,
+    "lng": 130.310995,
+    "has_exact_location": true
+  },
+  {
+    "name": "中国料理 モンシャン",
+    "category": "飲食店",
+    "area": "佐賀西部",
+    "lat": 33.291969,
+    "lng": 130.287226,
+    "has_exact_location": true
+  },
+  {
+    "name": "TSUITACHI COFFEE&TEA",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.257461,
+    "lng": 130.299579,
+    "has_exact_location": true
+  },
+  {
+    "name": "つけもの処 鶴屋 三瀬店",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.450304,
+    "lng": 130.275174,
+    "has_exact_location": true
+  },
+  {
+    "name": "T-1's バーガーカフェ",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.258928,
+    "lng": 130.291257,
+    "has_exact_location": true
+  },
+  {
+    "name": "手打ちそば そば勢",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.258916,
+    "lng": 130.298916,
+    "has_exact_location": true
+  },
+  {
+    "name": "手羽先 とりいち",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.304742,
+    "lng": 130.283143,
+    "has_exact_location": true
+  },
+  {
+    "name": "峠屋うどん",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.252331,
+    "lng": 130.319704,
+    "has_exact_location": true
+  },
+  {
+    "name": "トナカイコーヒー",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.235559,
+    "lng": 130.324236,
+    "has_exact_location": true
+  },
+  {
+    "name": "トネリコ・カフェ",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.255295,
+    "lng": 130.30089,
+    "has_exact_location": true
+  },
+  {
+    "name": "ドライブイン鳥 佐賀店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.265293,
+    "lng": 130.301324,
+    "has_exact_location": true
+  },
+  {
+    "name": "トラットリア ジャムの樹",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.268567,
+    "lng": 130.315413,
+    "has_exact_location": true
+  },
+  {
+    "name": "トリえモン アルタゆめ咲いちば店",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.278808,
+    "lng": 130.293297,
+    "has_exact_location": true
+  },
+  {
+    "name": "鳥菊",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.254088,
+    "lng": 130.302824,
+    "has_exact_location": true
+  },
+  {
+    "name": "トリヤマルハチ佐賀本庄店",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.240289,
+    "lng": 130.283349,
+    "has_exact_location": true
+  },
+  {
+    "name": "とんかつきのや 北部店",
+    "category": "飲食店",
+    "area": "佐賀西部",
+    "lat": 33.272883,
+    "lng": 130.286781,
+    "has_exact_location": true
+  },
+  {
+    "name": "とんかつきのや南本店",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.239889,
+    "lng": 130.287829,
+    "has_exact_location": true
+  },
+  {
+    "name": "どんどん亭佐賀兵庫店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.261737,
+    "lng": 130.317981,
+    "has_exact_location": true
+  },
+  {
+    "name": "どんどん亭鍋島店",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.250031,
+    "lng": 130.275291,
+    "has_exact_location": true
+  },
+  {
+    "name": "なお八屋",
+    "category": "飲食店",
+    "area": "佐賀西部",
+    "lat": 33.281074,
+    "lng": 130.269764,
+    "has_exact_location": true
+  },
+  {
+    "name": "ナカオ商店",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.262052,
+    "lng": 130.299801,
+    "has_exact_location": true
+  },
+  {
+    "name": "長崎ちゃんぽんリンガーハット 佐賀大和店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.302035,
+    "lng": 130.279795,
+    "has_exact_location": true
+  },
+  {
+    "name": "なな彩",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.263645,
+    "lng": 130.275051,
+    "has_exact_location": true
+  },
+  {
+    "name": "浪花寿司",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.262743,
+    "lng": 130.280773,
+    "has_exact_location": true
+  },
+  {
+    "name": "なべ家きぶん",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.258303,
+    "lng": 130.300882,
+    "has_exact_location": true
+  },
+  {
+    "name": "なべ家和元",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.302758,
+    "lng": 130.277507,
+    "has_exact_location": true
+  },
+  {
+    "name": "肉酒場ぼん",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.257596,
+    "lng": 130.299469,
+    "has_exact_location": true
+  },
+  {
+    "name": "肉と酒 Mmm ムーム",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.253063,
+    "lng": 130.30286,
+    "has_exact_location": true
+  },
+  {
+    "name": "日本料理 城下",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.249103,
+    "lng": 130.303638,
+    "has_exact_location": true
+  },
+  {
+    "name": "ニュー新生飯店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.254233,
+    "lng": 130.301872,
+    "has_exact_location": true
+  },
+  {
+    "name": "neuf9",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.324422,
+    "lng": 130.270105,
+    "has_exact_location": true
+  },
+  {
+    "name": "音彩",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.266319,
+    "lng": 130.306108,
+    "has_exact_location": true
+  },
+  {
+    "name": "NO-STAND",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.264203,
+    "lng": 130.296954,
+    "has_exact_location": true
+  },
+  {
+    "name": "のこ さがん酒処",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.255349,
+    "lng": 130.299194,
+    "has_exact_location": true
+  },
+  {
+    "name": "野間窓",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.249017,
+    "lng": 130.302755,
+    "has_exact_location": true
+  },
+  {
+    "name": "パインブックスコーヒー蓮池カフェ",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.245728,
+    "lng": 130.356504,
+    "has_exact_location": true
+  },
+  {
+    "name": "博多一番どり佐賀鍋島店",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.281466,
+    "lng": 130.269562,
+    "has_exact_location": true
+  },
+  {
+    "name": "はし富仕出し店",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.272554,
+    "lng": 130.297932,
+    "has_exact_location": true
+  },
+  {
+    "name": "Pasteria ViVi",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.247317,
+    "lng": 130.285151,
+    "has_exact_location": true
+  },
+  {
+    "name": "Hackberry",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.253183,
+    "lng": 130.302316,
+    "has_exact_location": true
+  },
+  {
+    "name": "Backen heim ボルガ",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.248076,
+    "lng": 130.322236,
+    "has_exact_location": true
+  },
+  {
+    "name": "ばってん酒蔵",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.253507,
+    "lng": 130.300332,
+    "has_exact_location": true
+  },
+  {
+    "name": "パフェ屋そらり大和店",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.307208,
+    "lng": 130.277721,
+    "has_exact_location": true
+  },
+  {
+    "name": "濱かつモラージュ佐賀店",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.252256,
+    "lng": 130.319052,
+    "has_exact_location": true
+  },
+  {
+    "name": "BALTAPAS",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.25749,
+    "lng": 130.301163,
+    "has_exact_location": true
+  },
+  {
+    "name": "晴れる屋",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.264611,
+    "lng": 130.3001,
+    "has_exact_location": true
+  },
+  {
+    "name": "Hungry bowL",
+    "category": "飲食店",
+    "area": "佐賀西部",
+    "lat": 33.264373,
+    "lng": 130.252543,
+    "has_exact_location": true
+  },
+  {
+    "name": "万菜 ゆなな",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.253421,
+    "lng": 130.303172,
+    "has_exact_location": true
+  },
+  {
+    "name": "ハンバーグ・オニオン佐賀大和店",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.303931,
+    "lng": 130.280844,
+    "has_exact_location": true
+  },
+  {
+    "name": "番豚",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.30851,
+    "lng": 130.264236,
+    "has_exact_location": true
+  },
+  {
+    "name": "晩飯 たかあき家",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.253949,
+    "lng": 130.306048,
+    "has_exact_location": true
+  },
+  {
+    "name": "B-POINT",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.252755,
+    "lng": 130.30028,
+    "has_exact_location": true
+  },
+  {
+    "name": "ビストロ チムニー",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.350999,
+    "lng": 130.248307,
+    "has_exact_location": true
+  },
+  {
+    "name": "ビストロ藤吉",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.291424,
+    "lng": 130.287267,
+    "has_exact_location": true
+  },
+  {
+    "name": "肥前うどん翔",
+    "category": "飲食店",
+    "area": "佐賀西部",
+    "lat": 33.249808,
+    "lng": 130.290054,
+    "has_exact_location": true
+  },
+  {
+    "name": "羊肉酒場 悟大 佐賀駅前店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.261633,
+    "lng": 130.298592,
+    "has_exact_location": true
+  },
+  {
+    "name": "PIZZERIA DA GINO",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.267292,
+    "lng": 130.293938,
+    "has_exact_location": true
+  },
+  {
+    "name": "美豚",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.261128,
+    "lng": 130.302543,
+    "has_exact_location": true
+  },
+  {
+    "name": "ビビン亭 ゆめタウン佐賀店",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.275617,
+    "lng": 130.307616,
+    "has_exact_location": true
+  },
+  {
+    "name": "広重屋 鮮魚仕出し店",
+    "category": "飲食店",
+    "area": "川副",
+    "lat": 33.175948,
+    "lng": 130.342029,
+    "has_exact_location": true
+  },
+  {
+    "name": "広島お好み焼き 鉄板焼き げんや",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.255202,
+    "lng": 130.301424,
+    "has_exact_location": true
+  },
+  {
+    "name": "深川食堂",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.272322,
+    "lng": 130.263313,
+    "has_exact_location": true
+  },
+  {
+    "name": "ふじの鮨",
+    "category": "飲食店",
+    "area": "諸富",
+    "lat": 33.223381,
+    "lng": 130.35843,
+    "has_exact_location": true
+  },
+  {
+    "name": "free station hakobune",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.262123,
+    "lng": 130.294864,
+    "has_exact_location": true
+  },
+  {
+    "name": "古川料理店",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.247096,
+    "lng": 130.308915,
+    "has_exact_location": true
+  },
+  {
+    "name": "古湯温泉 ONCRI 膳座敷 季味",
+    "category": "飲食店",
+    "area": "富士",
+    "lat": 33.368367,
+    "lng": 130.203636,
+    "has_exact_location": true
+  },
+  {
+    "name": "古湯温泉 ONCRI ナチュラルイタリアン SEBRI",
+    "category": "飲食店",
+    "area": "富士",
+    "lat": 33.373819,
+    "lng": 130.202737,
+    "has_exact_location": true
+  },
+  {
+    "name": "ブンガビレッジ",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.317243,
+    "lng": 130.277202,
+    "has_exact_location": true
+  },
+  {
+    "name": "ペッパーランチゆめタウン佐賀店",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.275842,
+    "lng": 130.307702,
+    "has_exact_location": true
+  },
+  {
+    "name": "Belle Epoque",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.261815,
+    "lng": 130.290652,
+    "has_exact_location": true
+  },
+  {
+    "name": "Homies",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.255135,
+    "lng": 130.299229,
+    "has_exact_location": true
+  },
+  {
+    "name": "星野村",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.238937,
+    "lng": 130.307923,
+    "has_exact_location": true
+  },
+  {
+    "name": "ホテルグランデはがくれ宴会場",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.260688,
+    "lng": 130.296068,
+    "has_exact_location": true
+  },
+  {
+    "name": "ホテルグランデはがくれカフェ＆レストランはなかご",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.260688,
+    "lng": 130.296068,
+    "has_exact_location": true
+  },
+  {
+    "name": "ホテルマリターレ創世 プリマヴェーラ",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.266076,
+    "lng": 130.293223,
+    "has_exact_location": true
+  },
+  {
+    "name": "ホルモン鉄板焼き くら蔵",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.280312,
+    "lng": 130.269126,
+    "has_exact_location": true
+  },
+  {
+    "name": "本庄うなぎ屋 東部店",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.260943,
+    "lng": 130.319068,
+    "has_exact_location": true
+  },
+  {
+    "name": "本庄うなぎ屋 北部店",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.299637,
+    "lng": 130.28115,
+    "has_exact_location": true
+  },
+  {
+    "name": "本庄うなぎ屋 本庄店",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.234351,
+    "lng": 130.301349,
+    "has_exact_location": true
+  },
+  {
+    "name": "本庄珈琲 うふふ",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.239445,
+    "lng": 130.3067,
+    "has_exact_location": true
+  },
+  {
+    "name": "マキザラーメン",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.260178,
+    "lng": 130.320477,
+    "has_exact_location": true
+  },
+  {
+    "name": "水匠",
+    "category": "飲食店",
+    "area": "佐賀西部",
+    "lat": 33.25883,
+    "lng": 130.287352,
+    "has_exact_location": true
+  },
+  {
+    "name": "ミスタードーナツイオンモール佐賀大和ショップ",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.303825,
+    "lng": 130.280547,
+    "has_exact_location": true
+  },
+  {
+    "name": "実り哉",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.26294,
+    "lng": 130.297594,
+    "has_exact_location": true
+  },
+  {
+    "name": "ミュージアムキッチンハルカフェ",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.252172,
+    "lng": 130.300283,
+    "has_exact_location": true
+  },
+  {
+    "name": "ミライザカ佐賀南口駅前店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.262931,
+    "lng": 130.298751,
+    "has_exact_location": true
+  },
+  {
+    "name": "民芸茶屋 シャローム",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.25006,
+    "lng": 130.321698,
+    "has_exact_location": true
+  },
+  {
+    "name": "ムジーク",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.255605,
+    "lng": 130.302042,
+    "has_exact_location": true
+  },
+  {
+    "name": "夢食彩叶 おせそ",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.261307,
+    "lng": 130.272313,
+    "has_exact_location": true
+  },
+  {
+    "name": "明月館 大財店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.257957,
+    "lng": 130.302656,
+    "has_exact_location": true
+  },
+  {
+    "name": "麺処いっせい",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.24695,
+    "lng": 130.301116,
+    "has_exact_location": true
+  },
+  {
+    "name": "麺家 ぶらっくぴっぐ",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.242838,
+    "lng": 130.25609,
+    "has_exact_location": true
+  },
+  {
+    "name": "孟渓苑",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.261067,
+    "lng": 130.303719,
+    "has_exact_location": true
+  },
+  {
+    "name": "土竜",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.257793,
+    "lng": 130.301153,
+    "has_exact_location": true
+  },
+  {
+    "name": "モスバーガー佐賀南バイパス店",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.238974,
+    "lng": 130.305671,
+    "has_exact_location": true
+  },
+  {
+    "name": "モスバーガー佐賀大和バイパス店",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.294228,
+    "lng": 130.284405,
+    "has_exact_location": true
+  },
+  {
+    "name": "もつ蔵",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.253361,
+    "lng": 130.302304,
+    "has_exact_location": true
+  },
+  {
+    "name": "本吉屋",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.281967,
+    "lng": 130.268317,
+    "has_exact_location": true
+  },
+  {
+    "name": "ものづくりカフェ こねくり家",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.254096,
+    "lng": 130.307925,
+    "has_exact_location": true
+  },
+  {
+    "name": "森の香菖蒲ご膳",
+    "category": "飲食店",
+    "area": "富士",
+    "lat": 33.407024,
+    "lng": 130.217675,
+    "has_exact_location": true
+  },
+  {
+    "name": "やきとり葵屋",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.259727,
+    "lng": 130.298975,
+    "has_exact_location": true
+  },
+  {
+    "name": "やきとり・活き造りこがね",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.259527,
+    "lng": 130.298659,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼鳥居酒家かくうち",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.281254,
+    "lng": 130.266694,
+    "has_exact_location": true
+  },
+  {
+    "name": "やきとり いちりん",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.25158,
+    "lng": 130.303338,
+    "has_exact_location": true
+  },
+  {
+    "name": "やきとり海賊",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.281041,
+    "lng": 130.298568,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼きとり かちがらす駅前店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.261764,
+    "lng": 130.297362,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼鳥かちがらす 松原店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.252159,
+    "lng": 130.304872,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼鳥かど屋",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.264727,
+    "lng": 130.297643,
+    "has_exact_location": true
+  },
+  {
+    "name": "やきとり来た郎",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.238864,
+    "lng": 130.298394,
+    "has_exact_location": true
+  },
+  {
+    "name": "やきとり悟空駅前店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.263229,
+    "lng": 130.298974,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼鳥さくら唐人店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.256521,
+    "lng": 130.29983,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼鳥さくら兵庫本店",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.27153,
+    "lng": 130.302466,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼鳥 大成",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.252602,
+    "lng": 130.305704,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼き鳥だいやす",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.257456,
+    "lng": 130.301595,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼き鳥 鳥ふみ",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.261485,
+    "lng": 130.297397,
+    "has_exact_location": true
+  },
+  {
+    "name": "やきとり鳥や",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.25891,
+    "lng": 130.298884,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼とり 敦煌",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.270297,
+    "lng": 130.287011,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼鳥はじめ",
+    "category": "飲食店",
+    "area": "佐賀西部",
+    "lat": 33.250467,
+    "lng": 130.282497,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼き鳥曳山",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.261775,
+    "lng": 130.300655,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼鳥や",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.26301,
+    "lng": 130.285486,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼き肉うっしっし",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.236508,
+    "lng": 130.32208,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼肉 炎壽",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.259111,
+    "lng": 130.299127,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼肉 花紋",
+    "category": "飲食店",
+    "area": "諸富",
+    "lat": 33.226706,
+    "lng": 130.343921,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼肉韓国家庭料理 朴家",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.269866,
+    "lng": 130.286248,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼肉館 勝 佐賀店",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.267118,
+    "lng": 130.31604,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼肉 麒麟屋",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.270267,
+    "lng": 130.292331,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼肉酒場 だるま",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.279223,
+    "lng": 130.269704,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼肉なべしま 佐賀開成店",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.271473,
+    "lng": 130.271595,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼肉なべしま 佐賀兵庫店",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.268274,
+    "lng": 130.314893,
+    "has_exact_location": true
+  },
+  {
+    "name": "やき肉 南大門",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.239329,
+    "lng": 130.303789,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼肉の大昌園 佐賀兵庫店",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.270046,
+    "lng": 130.33186,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼肉ハッスル",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.254484,
+    "lng": 130.301625,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼肉華守 KIWAMI",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.265869,
+    "lng": 130.301701,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼肉 華守 諸富店",
+    "category": "飲食店",
+    "area": "諸富",
+    "lat": 33.227541,
+    "lng": 130.342377,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼肉丸美屋",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.289761,
+    "lng": 130.271749,
+    "has_exact_location": true
+  },
+  {
+    "name": "焼味処 輪久",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.250863,
+    "lng": 130.3055,
+    "has_exact_location": false
+  },
+  {
+    "name": "Yago の花 cafe",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.262266,
+    "lng": 130.311851,
+    "has_exact_location": true
+  },
+  {
+    "name": "やさい直売所マッちゃん（飲食店）",
+    "category": "飲食店",
+    "area": "三瀬",
+    "lat": 33.43815,
+    "lng": 130.264107,
+    "has_exact_location": true
+  },
+  {
+    "name": "山カフェレストラン KUREHA",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.329229,
+    "lng": 130.268563,
+    "has_exact_location": true
+  },
+  {
+    "name": "和(やわらぎ)",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.313346,
+    "lng": 130.288319,
+    "has_exact_location": true
+  },
+  {
+    "name": "遊膳亭 たか美",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.323246,
+    "lng": 130.315703,
+    "has_exact_location": true
+  },
+  {
+    "name": "夢気球",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.270627,
+    "lng": 130.303697,
+    "has_exact_location": true
+  },
+  {
+    "name": "夢咲珈琲 うふふ",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.269734,
+    "lng": 130.305975,
+    "has_exact_location": true
+  },
+  {
+    "name": "夢の一歩 佐賀",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.25841,
+    "lng": 130.298663,
+    "has_exact_location": true
+  },
+  {
+    "name": "楊柳亭",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.251913,
+    "lng": 130.305258,
+    "has_exact_location": true
+  },
+  {
+    "name": "YOSHI",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.261822,
+    "lng": 130.301408,
+    "has_exact_location": true
+  },
+  {
+    "name": "らーめんげんこつ",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.262192,
+    "lng": 130.300534,
+    "has_exact_location": true
+  },
+  {
+    "name": "LIVE BAR ・ 雷神",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.253517,
+    "lng": 130.303375,
+    "has_exact_location": true
+  },
+  {
+    "name": "ラウンジ FICCE",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.25413,
+    "lng": 130.302349,
+    "has_exact_location": true
+  },
+  {
+    "name": "ラ・サンテ２４９",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.248206,
+    "lng": 130.305309,
+    "has_exact_location": true
+  },
+  {
+    "name": "ROUGH CAFE&DINING BAR",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.26627,
+    "lng": 130.297259,
+    "has_exact_location": true
+  },
+  {
+    "name": "ららららーめん佐賀駅北口店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.264639,
+    "lng": 130.297608,
+    "has_exact_location": true
+  },
+  {
+    "name": "RESTART",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.2629,
+    "lng": 130.280604,
+    "has_exact_location": true
+  },
+  {
+    "name": "龍王館佐賀駅前店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.261803,
+    "lng": 130.299677,
+    "has_exact_location": true
+  },
+  {
+    "name": "料庵 川松",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.252466,
+    "lng": 130.305618,
+    "has_exact_location": true
+  },
+  {
+    "name": "旅館あけぼの",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.253415,
+    "lng": 130.298537,
+    "has_exact_location": true
+  },
+  {
+    "name": "リンガーハット佐賀南部バイパス店",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.238763,
+    "lng": 130.299403,
+    "has_exact_location": true
+  },
+  {
+    "name": "restore compass",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.268679,
+    "lng": 130.29829,
+    "has_exact_location": true
+  },
+  {
+    "name": "Restaurant & sweets うふふ",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.254589,
+    "lng": 130.302668,
+    "has_exact_location": true
+  },
+  {
+    "name": "れんげ",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.278578,
+    "lng": 130.298252,
+    "has_exact_location": true
+  },
+  {
+    "name": "蓮華草",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.262641,
+    "lng": 130.283162,
+    "has_exact_location": true
+  },
+  {
+    "name": "禄",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.262423,
+    "lng": 130.301167,
+    "has_exact_location": true
+  },
+  {
+    "name": "路地裏の佐藤家",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.259877,
+    "lng": 130.294603,
+    "has_exact_location": true
+  },
+  {
+    "name": "六香庵",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.302462,
+    "lng": 130.278397,
+    "has_exact_location": true
+  },
+  {
+    "name": "ゼッテリア佐賀駅店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.26441,
+    "lng": 130.29864,
+    "has_exact_location": true
+  },
+  {
+    "name": "ゼッテリアモラージュ佐賀店",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.252226,
+    "lng": 130.318961,
+    "has_exact_location": true
+  },
+  {
+    "name": "炉端ハチク",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.259863,
+    "lng": 130.298512,
+    "has_exact_location": true
+  },
+  {
+    "name": "炉端焼 達磨",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.27904,
+    "lng": 130.270145,
+    "has_exact_location": true
+  },
+  {
+    "name": "炉ばた焼 ぽん太",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.253334,
+    "lng": 130.288217,
+    "has_exact_location": true
+  },
+  {
+    "name": "Loretta",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.25241,
+    "lng": 130.304754,
+    "has_exact_location": true
+  },
+  {
+    "name": "ワイン酒場 Lampada",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.257169,
+    "lng": 130.299705,
+    "has_exact_location": true
+  },
+  {
+    "name": "ワインセラー・カーヴ",
+    "category": "飲食店",
+    "area": "佐賀西部",
+    "lat": 33.257171,
+    "lng": 130.282224,
+    "has_exact_location": true
+  },
+  {
+    "name": "Wine Bar TNY",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.254044,
+    "lng": 130.302353,
+    "has_exact_location": true
+  },
+  {
+    "name": "和韓創作料理 青い YON",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.259435,
+    "lng": 130.298094,
+    "has_exact_location": true
+  },
+  {
+    "name": "和食処 華かぶき",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.281388,
+    "lng": 130.268429,
+    "has_exact_location": true
+  },
+  {
+    "name": "和膳千曲",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.249291,
+    "lng": 130.314074,
+    "has_exact_location": true
+  },
+  {
+    "name": "和処・基本だし 道しるべ",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.254283,
+    "lng": 130.303805,
+    "has_exact_location": true
+  },
+  {
+    "name": "和風鉄板焼 秀屋",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.240912,
+    "lng": 130.279335,
+    "has_exact_location": true
+  },
+  {
+    "name": "和料理みね家",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.264374,
+    "lng": 130.295992,
+    "has_exact_location": true
+  },
+  {
+    "name": "椀々",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.254027,
+    "lng": 130.29873,
+    "has_exact_location": true
+  },
+  {
+    "name": "右近畳店",
+    "category": "住まい",
+    "area": "佐賀西部",
+    "lat": 33.223185,
+    "lng": 130.257446,
+    "has_exact_location": true
+  },
+  {
+    "name": "エクステリア・プロ佐賀店",
+    "category": "住まい",
+    "area": "佐賀東部",
+    "lat": 33.255054,
+    "lng": 130.262944,
+    "has_exact_location": true
+  },
+  {
+    "name": "OHTORI",
+    "category": "住まい",
+    "area": "大和",
+    "lat": 33.318423,
+    "lng": 130.283353,
+    "has_exact_location": true
+  },
+  {
+    "name": "株式会社いえサガエステート",
+    "category": "住まい",
+    "area": "佐賀東部",
+    "lat": 33.274065,
+    "lng": 130.307685,
+    "has_exact_location": true
+  },
+  {
+    "name": "園田商店",
+    "category": "住まい",
+    "area": "佐賀東部",
+    "lat": 33.251471,
+    "lng": 130.370921,
+    "has_exact_location": true
+  },
+  {
+    "name": "西田硝子店",
+    "category": "住まい",
+    "area": "佐賀南部",
+    "lat": 33.237264,
+    "lng": 130.301365,
+    "has_exact_location": true
+  },
+  {
+    "name": "のぐち屋",
+    "category": "住まい",
+    "area": "大和",
+    "lat": 33.320224,
+    "lng": 130.29044,
+    "has_exact_location": true
+  },
+  {
+    "name": "ハウスドゥ佐賀末広 有限会社ツカサ",
+    "category": "住まい",
+    "area": "佐賀南部",
+    "lat": 33.24272,
+    "lng": 130.27689,
+    "has_exact_location": true
+  },
+  {
+    "name": "パナランドカトウ",
+    "category": "住まい",
+    "area": "中心市街地",
+    "lat": 33.26826,
+    "lng": 130.283554,
+    "has_exact_location": true
+  },
+  {
+    "name": "ユノカサービス",
+    "category": "住まい",
+    "area": "佐賀北部",
+    "lat": 33.272116,
+    "lng": 130.270515,
+    "has_exact_location": true
+  },
+  {
+    "name": "吉田商店",
+    "category": "住まい",
+    "area": "川副",
+    "lat": 33.256208,
+    "lng": 130.308418,
+    "has_exact_location": true
+  },
+  {
+    "name": "イシマル電器",
+    "category": "家具・寝具・家電",
+    "area": "東与賀",
+    "lat": 33.231983,
+    "lng": 130.296165,
+    "has_exact_location": true
+  },
+  {
+    "name": "エディオン カムラデンキ",
+    "category": "家具・寝具・家電",
+    "area": "佐賀北部",
+    "lat": 33.27998,
+    "lng": 130.28376,
+    "has_exact_location": true
+  },
+  {
+    "name": "エディオン 黒田電気",
+    "category": "家具・寝具・家電",
+    "area": "佐賀東部",
+    "lat": 33.2498,
+    "lng": 130.321811,
+    "has_exact_location": true
+  },
+  {
+    "name": "エディオン サカイ電器",
+    "category": "家具・寝具・家電",
+    "area": "佐賀北部",
+    "lat": 33.296242,
+    "lng": 130.286397,
+    "has_exact_location": true
+  },
+  {
+    "name": "エディオンいとう電器",
+    "category": "家具・寝具・家電",
+    "area": "佐賀北部",
+    "lat": 33.279822,
+    "lng": 130.266971,
+    "has_exact_location": true
+  },
+  {
+    "name": "エディオンえがしら電器",
+    "category": "家具・寝具・家電",
+    "area": "佐賀東部",
+    "lat": 33.263447,
+    "lng": 130.316316,
+    "has_exact_location": true
+  },
+  {
+    "name": "エディオン嘉瀬店",
+    "category": "家具・寝具・家電",
+    "area": "佐賀西部",
+    "lat": 33.255084,
+    "lng": 130.257997,
+    "has_exact_location": true
+  },
+  {
+    "name": "エディオン黒田電気",
+    "category": "家具・寝具・家電",
+    "area": "佐賀東部",
+    "lat": 33.2498,
+    "lng": 130.321811,
+    "has_exact_location": true
+  },
+  {
+    "name": "エディオン古賀電器サービス",
+    "category": "家具・寝具・家電",
+    "area": "佐賀東部",
+    "lat": 33.24989,
+    "lng": 130.357116,
+    "has_exact_location": true
+  },
+  {
+    "name": "エディオン 末永家電",
+    "category": "家具・寝具・家電",
+    "area": "佐賀南部",
+    "lat": 33.243754,
+    "lng": 130.294093,
+    "has_exact_location": true
+  },
+  {
+    "name": "エディオン本村電器",
+    "category": "家具・寝具・家電",
+    "area": "佐賀南部",
+    "lat": 33.246499,
+    "lng": 130.301299,
+    "has_exact_location": true
+  },
+  {
+    "name": "家具ギャラリーよろこび",
+    "category": "家具・寝具・家電",
+    "area": "諸富",
+    "lat": 33.22099,
+    "lng": 130.365289,
+    "has_exact_location": true
+  },
+  {
+    "name": "木下デンキ",
+    "category": "家具・寝具・家電",
+    "area": "佐賀南部",
+    "lat": 33.280828,
+    "lng": 130.300644,
+    "has_exact_location": true
+  },
+  {
+    "name": "古賀寝具製造",
+    "category": "家具・寝具・家電",
+    "area": "佐賀東部",
+    "lat": 33.254126,
+    "lng": 130.312281,
+    "has_exact_location": true
+  },
+  {
+    "name": "ダイワデンキ",
+    "category": "家具・寝具・家電",
+    "area": "佐賀西部",
+    "lat": 33.244238,
+    "lng": 130.249315,
+    "has_exact_location": true
+  },
+  {
+    "name": "ドコモショップ佐賀東店",
+    "category": "家具・寝具・家電",
+    "area": "佐賀東部",
+    "lat": 33.265347,
+    "lng": 130.326823,
+    "has_exact_location": true
+  },
+  {
+    "name": "ドコモショップ佐賀南店",
+    "category": "家具・寝具・家電",
+    "area": "佐賀南部",
+    "lat": 33.239098,
+    "lng": 130.299922,
+    "has_exact_location": true
+  },
+  {
+    "name": "ドコモショップサテライト",
+    "category": "家具・寝具・家電",
+    "area": "佐賀東部",
+    "lat": 33.263774,
+    "lng": 130.313025,
+    "has_exact_location": true
+  },
+  {
+    "name": "中野屋ふとん店",
+    "category": "家具・寝具・家電",
+    "area": "中心市街地",
+    "lat": 33.25532,
+    "lng": 130.301105,
+    "has_exact_location": true
+  },
+  {
+    "name": "パナランド倉重",
+    "category": "家具・寝具・家電",
+    "area": "諸富",
+    "lat": 33.22985,
+    "lng": 130.356742,
+    "has_exact_location": true
+  },
+  {
+    "name": "FAVO",
+    "category": "家具・寝具・家電",
+    "area": "諸富",
+    "lat": 33.22957,
+    "lng": 130.337214,
+    "has_exact_location": true
+  },
+  {
+    "name": "防犯カメラダイレクト",
+    "category": "家具・寝具・家電",
+    "area": "大和",
+    "lat": 33.299462,
+    "lng": 130.280464,
+    "has_exact_location": true
+  },
+  {
+    "name": "松尾ふとん",
+    "category": "家具・寝具・家電",
+    "area": "佐賀北部",
+    "lat": 33.28037,
+    "lng": 130.283989,
+    "has_exact_location": true
+  },
+  {
+    "name": "馬渡電気商会",
+    "category": "家具・寝具・家電",
+    "area": "佐賀北部",
+    "lat": 33.265034,
+    "lng": 130.285255,
+    "has_exact_location": true
+  },
+  {
+    "name": "レグナテック ショールーム クラッセ",
+    "category": "家具・寝具・家電",
+    "area": "諸富",
+    "lat": 33.225734,
+    "lng": 130.347449,
+    "has_exact_location": true
+  },
+  {
+    "name": "あいらぶゆ",
+    "category": "健康・医療・薬局",
+    "area": "佐賀東部",
+    "lat": 33.250842,
+    "lng": 130.304607,
+    "has_exact_location": true
+  },
+  {
+    "name": "岩永補聴器佐賀本店",
+    "category": "健康・医療・薬局",
+    "area": "中心市街地",
+    "lat": 33.255192,
+    "lng": 130.300175,
+    "has_exact_location": true
+  },
+  {
+    "name": "WELLNESS CHIRO BiSieg",
+    "category": "健康・医療・薬局",
+    "area": "佐賀東部",
+    "lat": 33.271533,
+    "lng": 130.305172,
+    "has_exact_location": true
+  },
+  {
+    "name": "内川薬局",
+    "category": "健康・医療・薬局",
+    "area": "川副",
+    "lat": 33.209231,
+    "lng": 130.335534,
+    "has_exact_location": true
+  },
+  {
+    "name": "うちだ整骨院",
+    "category": "健康・医療・薬局",
+    "area": "佐賀南部",
+    "lat": 33.258085,
+    "lng": 130.287598,
+    "has_exact_location": true
+  },
+  {
+    "name": "えにし整骨院・整体鍼灸院",
+    "category": "健康・医療・薬局",
+    "area": "佐賀東部",
+    "lat": 33.262853,
+    "lng": 130.312754,
+    "has_exact_location": true
+  },
+  {
+    "name": "恵比寿鍼灸整骨院",
+    "category": "健康・医療・薬局",
+    "area": "佐賀北部",
+    "lat": 33.272022,
+    "lng": 130.275273,
+    "has_exact_location": true
+  },
+  {
+    "name": "おおた整骨院",
+    "category": "健康・医療・薬局",
+    "area": "佐賀南部",
+    "lat": 33.242549,
+    "lng": 130.277017,
+    "has_exact_location": true
+  },
+  {
+    "name": "カイドー薬局好生堂店",
+    "category": "健康・医療・薬局",
+    "area": "川副",
+    "lat": 33.184723,
+    "lng": 130.318896,
+    "has_exact_location": true
+  },
+  {
+    "name": "カイドー薬局大和店",
+    "category": "健康・医療・薬局",
+    "area": "大和",
+    "lat": 33.309498,
+    "lng": 130.284464,
+    "has_exact_location": true
+  },
+  {
+    "name": "カイロプラクティック江里口院",
+    "category": "健康・医療・薬局",
+    "area": "佐賀北部",
+    "lat": 33.262378,
+    "lng": 130.279495,
+    "has_exact_location": true
+  },
+  {
+    "name": "久保整骨院",
+    "category": "健康・医療・薬局",
+    "area": "佐賀北部",
+    "lat": 33.277965,
+    "lng": 130.285426,
+    "has_exact_location": true
+  },
+  {
+    "name": "くぼ薬局医大通り店",
+    "category": "健康・医療・薬局",
+    "area": "佐賀北部",
+    "lat": 33.280359,
+    "lng": 130.269913,
+    "has_exact_location": true
+  },
+  {
+    "name": "久保薬局木原店",
+    "category": "健康・医療・薬局",
+    "area": "佐賀南部",
+    "lat": 33.241927,
+    "lng": 130.322247,
+    "has_exact_location": true
+  },
+  {
+    "name": "久保薬局 県庁通り店",
+    "category": "健康・医療・薬局",
+    "area": "中心市街地",
+    "lat": 33.254524,
+    "lng": 130.298669,
+    "has_exact_location": true
+  },
+  {
+    "name": "久保薬局中の小路店",
+    "category": "健康・医療・薬局",
+    "area": "中心市街地",
+    "lat": 33.252668,
+    "lng": 130.294616,
+    "has_exact_location": true
+  },
+  {
+    "name": "久保薬局中町店",
+    "category": "健康・医療・薬局",
+    "area": "中心市街地",
+    "lat": 33.254476,
+    "lng": 130.295673,
+    "has_exact_location": true
+  },
+  {
+    "name": "久保薬局西与賀店",
+    "category": "健康・医療・薬局",
+    "area": "佐賀南部",
+    "lat": 33.238536,
+    "lng": 130.278834,
+    "has_exact_location": true
+  },
+  {
+    "name": "クリニック新生",
+    "category": "健康・医療・薬局",
+    "area": "佐賀南部",
+    "lat": 33.25437,
+    "lng": 130.279931,
+    "has_exact_location": true
+  },
+  {
+    "name": "コーソ薬局佐大通り店",
+    "category": "健康・医療・薬局",
+    "area": "佐賀南部",
+    "lat": 33.244096,
+    "lng": 130.286907,
+    "has_exact_location": true
+  },
+  {
+    "name": "コーソ薬局諸富店",
+    "category": "健康・医療・薬局",
+    "area": "諸富",
+    "lat": 33.226713,
+    "lng": 130.344235,
+    "has_exact_location": true
+  },
+  {
+    "name": "コーソ薬局ラポール店",
+    "category": "健康・医療・薬局",
+    "area": "諸富",
+    "lat": 33.192961,
+    "lng": 130.315674,
+    "has_exact_location": true
+  },
+  {
+    "name": "さかなし薬局西与賀店",
+    "category": "健康・医療・薬局",
+    "area": "佐賀南部",
+    "lat": 33.226911,
+    "lng": 130.269342,
+    "has_exact_location": true
+  },
+  {
+    "name": "さんて薬局",
+    "category": "健康・医療・薬局",
+    "area": "佐賀西部",
+    "lat": 33.262999,
+    "lng": 130.252005,
+    "has_exact_location": false
+  },
+  {
+    "name": "シティコンタクト佐賀店",
+    "category": "健康・医療・薬局",
+    "area": "中心市街地",
+    "lat": 33.262379,
+    "lng": 130.298612,
+    "has_exact_location": true
+  },
+  {
+    "name": "すずな薬局 久保田店",
+    "category": "健康・医療・薬局",
+    "area": "久保田",
+    "lat": 33.233298,
+    "lng": 130.239204,
+    "has_exact_location": true
+  },
+  {
+    "name": "すずな薬局 神野店",
+    "category": "健康・医療・薬局",
+    "area": "佐賀北部",
+    "lat": 33.265674,
+    "lng": 130.294443,
+    "has_exact_location": true
+  },
+  {
+    "name": "SSS コンタクト",
+    "category": "健康・医療・薬局",
+    "area": "佐賀東部",
+    "lat": 33.259584,
+    "lng": 130.318964,
+    "has_exact_location": true
+  },
+  {
+    "name": "整骨院くすの木",
+    "category": "健康・医療・薬局",
+    "area": "佐賀東部",
+    "lat": 33.266022,
+    "lng": 130.301161,
+    "has_exact_location": true
+  },
+  {
+    "name": "髙倉整骨院",
+    "category": "健康・医療・薬局",
+    "area": "佐賀南部",
+    "lat": 33.244931,
+    "lng": 130.291432,
+    "has_exact_location": true
+  },
+  {
+    "name": "タカトリ薬局",
+    "category": "健康・医療・薬局",
+    "area": "中心市街地",
+    "lat": 33.260667,
+    "lng": 130.298188,
+    "has_exact_location": true
+  },
+  {
+    "name": "タカトリ薬局大財店",
+    "category": "健康・医療・薬局",
+    "area": "中心市街地",
+    "lat": 33.260646,
+    "lng": 130.302882,
+    "has_exact_location": true
+  },
+  {
+    "name": "武田健康堂神野店",
+    "category": "健康・医療・薬局",
+    "area": "佐賀北部",
+    "lat": 33.276607,
+    "lng": 130.251588,
+    "has_exact_location": true
+  },
+  {
+    "name": "ドラッグストアモリ愛敬店",
+    "category": "健康・医療・薬局",
+    "area": "中心市街地",
+    "lat": 33.261867,
+    "lng": 130.299981,
+    "has_exact_location": true
+  },
+  {
+    "name": "ドラッグストアモリ赤松店",
+    "category": "健康・医療・薬局",
+    "area": "佐賀南部",
+    "lat": 33.245357,
+    "lng": 130.293787,
+    "has_exact_location": true
+  },
+  {
+    "name": "ドラッグストアモリ神園店",
+    "category": "健康・医療・薬局",
+    "area": "佐賀北部",
+    "lat": 33.262208,
+    "lng": 130.282507,
+    "has_exact_location": true
+  },
+  {
+    "name": "ドラッグストアモリ久保田店",
+    "category": "健康・医療・薬局",
+    "area": "久保田",
+    "lat": 33.220411,
+    "lng": 130.242901,
+    "has_exact_location": true
+  },
+  {
+    "name": "ドラッグストアモリ巨勢店",
+    "category": "健康・医療・薬局",
+    "area": "佐賀東部",
+    "lat": 33.255759,
+    "lng": 130.315168,
+    "has_exact_location": true
+  },
+  {
+    "name": "ドラッグストアモリ佐賀栄町店",
+    "category": "健康・医療・薬局",
+    "area": "中心市街地",
+    "lat": 33.26337,
+    "lng": 130.302268,
+    "has_exact_location": true
+  },
+  {
+    "name": "ドラッグストアモリ佐賀本庄店",
+    "category": "健康・医療・薬局",
+    "area": "佐賀南部",
+    "lat": 33.246472,
+    "lng": 130.284527,
+    "has_exact_location": true
+  },
+  {
+    "name": "ドラッグストアモリ高木瀬店",
+    "category": "健康・医療・薬局",
+    "area": "佐賀北部",
+    "lat": 33.2844,
+    "lng": 130.290683,
+    "has_exact_location": true
+  },
+  {
+    "name": "ドラッグストアモリ高木瀬東店",
+    "category": "健康・医療・薬局",
+    "area": "佐賀北部",
+    "lat": 33.2844,
+    "lng": 130.290683,
+    "has_exact_location": true
+  },
+  {
+    "name": "ドラッグストアモリ尼寺店",
+    "category": "健康・医療・薬局",
+    "area": "大和",
+    "lat": 33.309618,
+    "lng": 130.285914,
+    "has_exact_location": true
+  },
+  {
+    "name": "ドラッグストアモリ東与賀店",
+    "category": "健康・医療・薬局",
+    "area": "東与賀",
+    "lat": 33.219634,
+    "lng": 130.305338,
+    "has_exact_location": true
+  },
+  {
+    "name": "ドラッグストアモリ兵庫店",
+    "category": "健康・医療・薬局",
+    "area": "佐賀東部",
+    "lat": 33.274401,
+    "lng": 130.311902,
+    "has_exact_location": true
+  },
+  {
+    "name": "ドラッグストアモリ南佐賀店",
+    "category": "健康・医療・薬局",
+    "area": "佐賀南部",
+    "lat": 33.239086,
+    "lng": 130.318386,
+    "has_exact_location": true
+  },
+  {
+    "name": "ドラッグストアモリ大和店",
+    "category": "健康・医療・薬局",
+    "area": "大和",
+    "lat": 33.308628,
+    "lng": 130.279528,
+    "has_exact_location": true
+  },
+  {
+    "name": "ドンキー薬局",
+    "category": "健康・医療・薬局",
+    "area": "佐賀東部",
+    "lat": 33.252017,
+    "lng": 130.321787,
+    "has_exact_location": true
+  },
+  {
+    "name": "なかしま鍼灸整骨院",
+    "category": "健康・医療・薬局",
+    "area": "佐賀北部",
+    "lat": 33.263441,
+    "lng": 130.288319,
+    "has_exact_location": true
+  },
+  {
+    "name": "虹の薬局",
+    "category": "健康・医療・薬局",
+    "area": "佐賀北部",
+    "lat": 33.269701,
+    "lng": 130.299466,
+    "has_exact_location": true
+  },
+  {
+    "name": "にしやま整骨院",
+    "category": "健康・医療・薬局",
+    "area": "佐賀北部",
+    "lat": 33.268174,
+    "lng": 130.296752,
+    "has_exact_location": true
+  },
+  {
+    "name": "日新薬局",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.253844,
+    "lng": 130.279807,
+    "has_exact_location": true
+  },
+  {
+    "name": "東与賀整骨院",
+    "category": "飲食店",
+    "area": "東与賀",
+    "lat": 33.212806,
+    "lng": 130.291063,
+    "has_exact_location": true
+  },
+  {
+    "name": "古川薬品",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.259594,
+    "lng": 130.298661,
+    "has_exact_location": true
+  },
+  {
+    "name": "Best 大財",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.262103,
+    "lng": 130.309223,
+    "has_exact_location": true
+  },
+  {
+    "name": "Best 南部バイパス",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.241625,
+    "lng": 130.278284,
+    "has_exact_location": true
+  },
+  {
+    "name": "MIZ 空港通り店",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.23872,
+    "lng": 130.302243,
+    "has_exact_location": true
+  },
+  {
+    "name": "MIZ エスプラッツ店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.254872,
+    "lng": 130.302087,
+    "has_exact_location": true
+  },
+  {
+    "name": "溝上薬局 医大通り店",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.275428,
+    "lng": 130.270325,
+    "has_exact_location": true
+  },
+  {
+    "name": "溝上薬局 医大南センター店",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.277608,
+    "lng": 130.267476,
+    "has_exact_location": true
+  },
+  {
+    "name": "溝上薬局 エスプラッツ店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.254872,
+    "lng": 130.302087,
+    "has_exact_location": true
+  },
+  {
+    "name": "溝上薬局 大財店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.25724,
+    "lng": 130.304561,
+    "has_exact_location": true
+  },
+  {
+    "name": "溝上薬局 木原店",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.243393,
+    "lng": 130.315727,
+    "has_exact_location": true
+  },
+  {
+    "name": "溝上薬局 空港通り店",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.23872,
+    "lng": 130.302243,
+    "has_exact_location": true
+  },
+  {
+    "name": "溝上薬局 久保泉店",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.304872,
+    "lng": 130.315762,
+    "has_exact_location": true
+  },
+  {
+    "name": "溝上薬局 県庁前林店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.252036,
+    "lng": 130.2991,
+    "has_exact_location": true
+  },
+  {
+    "name": "溝上薬局 コムボックス佐賀駅前店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.263527,
+    "lng": 130.298295,
+    "has_exact_location": true
+  },
+  {
+    "name": "溝上薬局 さが北警察南店",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.273456,
+    "lng": 130.300175,
+    "has_exact_location": true
+  },
+  {
+    "name": "溝上薬局 下田町店",
+    "category": "飲食店",
+    "area": "佐賀西部",
+    "lat": 33.243693,
+    "lng": 130.276366,
+    "has_exact_location": true
+  },
+  {
+    "name": "溝上薬局 高木瀬店",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.285016,
+    "lng": 130.284077,
+    "has_exact_location": true
+  },
+  {
+    "name": "溝上薬局 兵庫店",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.263363,
+    "lng": 130.315021,
+    "has_exact_location": true
+  },
+  {
+    "name": "溝上薬局 堀川店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.250572,
+    "lng": 130.296925,
+    "has_exact_location": true
+  },
+  {
+    "name": "溝上薬局 本庄佐大南店",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.237155,
+    "lng": 130.293359,
+    "has_exact_location": true
+  },
+  {
+    "name": "溝上薬局 本店",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.250794,
+    "lng": 130.304443,
+    "has_exact_location": true
+  },
+  {
+    "name": "溝上薬局 大和国分店",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.310721,
+    "lng": 130.286652,
+    "has_exact_location": true
+  },
+  {
+    "name": "溝上薬局 ゆめさき店",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.273051,
+    "lng": 130.308246,
+    "has_exact_location": true
+  },
+  {
+    "name": "山田歯科医院",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.278548,
+    "lng": 130.284801,
+    "has_exact_location": true
+  },
+  {
+    "name": "大和漢方 水堂薬局",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.312983,
+    "lng": 130.266972,
+    "has_exact_location": false
+  },
+  {
+    "name": "楊鍼灸整骨院",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.268689,
+    "lng": 130.276043,
+    "has_exact_location": true
+  },
+  {
+    "name": "らいふ薬局 医大通り店",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.275653,
+    "lng": 130.270777,
+    "has_exact_location": true
+  },
+  {
+    "name": "らいふ薬局 川副店",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.211989,
+    "lng": 130.312398,
+    "has_exact_location": true
+  },
+  {
+    "name": "らいふ薬局 木原店",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.24444,
+    "lng": 130.32235,
+    "has_exact_location": true
+  },
+  {
+    "name": "らいふ薬局 佐賀県医療センター好",
+    "category": "飲食店",
+    "area": "佐賀西部",
+    "lat": 33.240934,
+    "lng": 130.267977,
+    "has_exact_location": true
+  },
+  {
+    "name": "生館前店",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.258687,
+    "lng": 130.287375,
+    "has_exact_location": true
+  },
+  {
+    "name": "らいふ薬局 高木瀬店",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.280474,
+    "lng": 130.296062,
+    "has_exact_location": true
+  },
+  {
+    "name": "らいふ薬局 兵庫店",
+    "category": "飲食店",
+    "area": "諸富",
+    "lat": 33.264544,
+    "lng": 130.324149,
+    "has_exact_location": true
+  },
+  {
+    "name": "アクティブリンク",
+    "category": "教育・文化",
+    "area": "大和",
+    "lat": 33.228402,
+    "lng": 130.34116,
+    "has_exact_location": true
+  },
+  {
+    "name": "いけばなやスフィア",
+    "category": "教育・文化",
+    "area": "佐賀北部",
+    "lat": 33.31035,
+    "lng": 130.280877,
+    "has_exact_location": true
+  },
+  {
+    "name": "エヌビーコム",
+    "category": "教育・文化",
+    "area": "佐賀北部",
+    "lat": 33.265833,
+    "lng": 130.297019,
+    "has_exact_location": true
+  },
+  {
+    "name": "学習塾小鳩塾",
+    "category": "教育・文化",
+    "area": "中心市街地",
+    "lat": 33.294681,
+    "lng": 130.308785,
+    "has_exact_location": true
+  },
+  {
+    "name": "コレットダンススタジオ",
+    "category": "教育・文化",
+    "area": "中心市街地",
+    "lat": 33.255366,
+    "lng": 130.30099,
+    "has_exact_location": true
+  },
+  {
+    "name": "佐賀新聞文化センター エスプラッツ教室",
+    "category": "教育・文化",
+    "area": "中心市街地",
+    "lat": 33.254997,
+    "lng": 130.302178,
+    "has_exact_location": true
+  },
+  {
+    "name": "寺﨑会計",
+    "category": "教育・文化",
+    "area": "佐賀南部",
+    "lat": 33.23632,
+    "lng": 130.167838,
+    "has_exact_location": true
+  },
+  {
+    "name": "TENTO EX.さが",
+    "category": "教育・文化",
+    "area": "大和",
+    "lat": 33.249772,
+    "lng": 130.30629,
+    "has_exact_location": true
+  },
+  {
+    "name": "田辺写真工房",
+    "category": "広告・印刷・写真",
+    "area": "佐賀東部",
+    "lat": 33.320277,
+    "lng": 130.283201,
+    "has_exact_location": true
+  },
+  {
+    "name": "PHOTO ATELIER KOYO",
+    "category": "広告・印刷・写真",
+    "area": "佐賀東部",
+    "lat": 33.270554,
+    "lng": 130.30844,
+    "has_exact_location": true
+  },
+  {
+    "name": "海鮮丼丸どんぶりこ。東佐賀店",
+    "category": "テイクアウト専門店",
+    "area": "佐賀北部",
+    "lat": 33.252602,
+    "lng": 130.312513,
+    "has_exact_location": true
+  },
+  {
+    "name": "koinucoffee",
+    "category": "テイクアウト専門店",
+    "area": "佐賀北部",
+    "lat": 33.324837,
+    "lng": 130.167676,
+    "has_exact_location": true
+  },
+  {
+    "name": "COCOROCafe",
+    "category": "テイクアウト専門店",
+    "area": "東与賀",
+    "lat": 33.272026,
+    "lng": 130.301922,
+    "has_exact_location": true
+  },
+  {
+    "name": "さか菜・おお江",
+    "category": "テイクアウト専門店",
+    "area": "佐賀東部",
+    "lat": 35.557606,
+    "lng": 134.664517,
+    "has_exact_location": true
+  },
+  {
+    "name": "ジンのキッチンカー",
+    "category": "テイクアウト専門店",
+    "area": "佐賀南部",
+    "lat": 33.25791,
+    "lng": 130.299394,
+    "has_exact_location": true
+  },
+  {
+    "name": "ビギニング",
+    "category": "テイクアウト専門店",
+    "area": "中心市街地",
+    "lat": 33.256802,
+    "lng": 130.292582,
+    "has_exact_location": true
+  },
+  {
+    "name": "ピザ・カリフォルニア城内南店",
+    "category": "テイクアウト専門店",
+    "area": "中心市街地",
+    "lat": 33.245471,
+    "lng": 130.308286,
+    "has_exact_location": true
+  },
+  {
+    "name": "ピザクック佐賀店",
+    "category": "テイクアウト専門店",
+    "area": "佐賀北部",
+    "lat": 33.260504,
+    "lng": 130.302444,
+    "has_exact_location": true
+  },
+  {
+    "name": "美味求心",
+    "category": "テイクアウト専門店",
+    "area": "佐賀東部",
+    "lat": 33.252088,
+    "lng": 130.305314,
+    "has_exact_location": true
+  },
+  {
+    "name": "福まん家 神野店",
+    "category": "テイクアウト専門店",
+    "area": "佐賀東部",
+    "lat": 33.269845,
+    "lng": 130.286143,
+    "has_exact_location": true
+  },
+  {
+    "name": "福まん家 佐賀兵庫店",
+    "category": "テイクアウト専門店",
+    "area": "佐賀北部",
+    "lat": 33.262649,
+    "lng": 130.313509,
+    "has_exact_location": true
+  },
+  {
+    "name": "福わうち",
+    "category": "テイクアウト専門店",
+    "area": "中心市街地",
+    "lat": 33.249862,
+    "lng": 130.321783,
+    "has_exact_location": true
+  },
+  {
+    "name": "まるみやキッチン",
+    "category": "テイクアウト専門店",
+    "area": "佐賀北部",
+    "lat": 33.289705,
+    "lng": 130.27176,
+    "has_exact_location": true
+  },
+  {
+    "name": "ワッフルのタンタン",
+    "category": "テイクアウト専門店",
+    "area": "佐賀南部",
+    "lat": 33.266452,
+    "lng": 129.754786,
+    "has_exact_location": true
+  },
+  {
+    "name": "旭屋",
+    "category": "食品・飲料",
+    "area": "川副",
+    "lat": 33.288627,
+    "lng": 130.275764,
+    "has_exact_location": true
+  },
+  {
+    "name": "有明の風",
+    "category": "食品・飲料",
+    "area": "佐賀南部",
+    "lat": 33.220293,
+    "lng": 130.264102,
+    "has_exact_location": true
+  },
+  {
+    "name": "池田誠商店",
+    "category": "食品・飲料",
+    "area": "佐賀北部",
+    "lat": 33.179872,
+    "lng": 130.312676,
+    "has_exact_location": true
+  },
+  {
+    "name": "石丸酒店",
+    "category": "食品・飲料",
+    "area": "佐賀西部",
+    "lat": 33.246512,
+    "lng": 130.30139,
+    "has_exact_location": true
+  },
+  {
+    "name": "石丸食肉産業（株）佐賀店",
+    "category": "食品・飲料",
+    "area": "佐賀西部",
+    "lat": 33.263543,
+    "lng": 130.293719,
+    "has_exact_location": true
+  },
+  {
+    "name": "梅野米や天祐",
+    "category": "食品・飲料",
+    "area": "佐賀東部",
+    "lat": 33.256689,
+    "lng": 130.283732,
+    "has_exact_location": true
+  },
+  {
+    "name": "梅野米穀店",
+    "category": "食品・飲料",
+    "area": "川副",
+    "lat": 33.253795,
+    "lng": 130.284449,
+    "has_exact_location": true
+  },
+  {
+    "name": "えがしら青果",
+    "category": "食品・飲料",
+    "area": "佐賀北部",
+    "lat": 33.374657,
+    "lng": 129.947439,
+    "has_exact_location": true
+  },
+  {
+    "name": "江頭精肉店",
+    "category": "食品・飲料",
+    "area": "大和",
+    "lat": 33.186686,
+    "lng": 130.319164,
+    "has_exact_location": true
+  },
+  {
+    "name": "お茶の末崎園 アルタ開成店",
+    "category": "食品・飲料",
+    "area": "中心市街地",
+    "lat": 33.271913,
+    "lng": 130.277024,
+    "has_exact_location": true
+  },
+  {
+    "name": "お茶の末崎園 イオンモール佐賀大",
+    "category": "食品・飲料",
+    "area": "中心市街地",
+    "lat": 33.303931,
+    "lng": 130.280844,
+    "has_exact_location": true
+  },
+  {
+    "name": "和店",
+    "category": "食品・飲料",
+    "area": "佐賀東部",
+    "lat": 33.280221,
+    "lng": 130.296482,
+    "has_exact_location": true
+  },
+  {
+    "name": "お茶の末崎園 えきマチ 1 丁目佐賀店",
+    "category": "食品・飲料",
+    "area": "中心市街地",
+    "lat": 33.264143,
+    "lng": 130.297884,
+    "has_exact_location": true
+  },
+  {
+    "name": "お茶の末崎園 白山店",
+    "category": "食品・飲料",
+    "area": "中心市街地",
+    "lat": 33.25547,
+    "lng": 130.299595,
+    "has_exact_location": true
+  },
+  {
+    "name": "お茶の山輝園",
+    "category": "食品・飲料",
+    "area": "佐賀西部",
+    "lat": 33.260592,
+    "lng": 130.256625,
+    "has_exact_location": false
+  },
+  {
+    "name": "オト酒店",
+    "category": "食品・飲料",
+    "area": "佐賀西部",
+    "lat": 33.26043,
+    "lng": 130.263638,
+    "has_exact_location": false
+  },
+  {
+    "name": "上林茶店",
+    "category": "食品・飲料",
+    "area": "諸富",
+    "lat": 33.254949,
+    "lng": 130.303389,
+    "has_exact_location": true
+  },
+  {
+    "name": "北島のあめゆ楠庵",
+    "category": "食品・飲料",
+    "area": "中心市街地",
+    "lat": 33.249097,
+    "lng": 130.29096,
+    "has_exact_location": true
+  },
+  {
+    "name": "北島味噌醤油店",
+    "category": "食品・飲料",
+    "area": "佐賀北部",
+    "lat": 33.247919,
+    "lng": 130.281715,
+    "has_exact_location": true
+  },
+  {
+    "name": "京都伊三郎製ぱん諸富店",
+    "category": "食品・飲料",
+    "area": "佐賀北部",
+    "lat": 33.230489,
+    "lng": 130.335691,
+    "has_exact_location": true
+  },
+  {
+    "name": "喜代龍本店",
+    "category": "食品・飲料",
+    "area": "佐賀北部",
+    "lat": 33.253834,
+    "lng": 130.301797,
+    "has_exact_location": true
+  },
+  {
+    "name": "金立 SA㊦ うまか亭本舗",
+    "category": "食品・飲料",
+    "area": "佐賀北部",
+    "lat": 33.328328,
+    "lng": 130.31215,
+    "has_exact_location": true
+  },
+  {
+    "name": "金立 SA㊦ クリームランド",
+    "category": "食品・飲料",
+    "area": "佐賀北部",
+    "lat": 33.32921,
+    "lng": 130.310828,
+    "has_exact_location": true
+  },
+  {
+    "name": "金立 SA㊦ ショッピングコーナー",
+    "category": "食品・飲料",
+    "area": "佐賀北部",
+    "lat": 33.32921,
+    "lng": 130.310846,
+    "has_exact_location": true
+  },
+  {
+    "name": "金立 SA㊦ PAO",
+    "category": "食品・飲料",
+    "area": "佐賀北部",
+    "lat": 33.292895,
+    "lng": 130.306429,
+    "has_exact_location": false
+  },
+  {
+    "name": "金立 SA㊦ バンテルン",
+    "category": "食品・飲料",
+    "area": "佐賀東部",
+    "lat": 33.328365,
+    "lng": 130.312368,
+    "has_exact_location": true
+  },
+  {
+    "name": "金立 SA㊤ ショッピングコーナー",
+    "category": "食品・飲料",
+    "area": "佐賀東部",
+    "lat": 33.252178,
+    "lng": 130.33768,
+    "has_exact_location": false
+  },
+  {
+    "name": "金立 SA㊤ 特設販売",
+    "category": "食品・飲料",
+    "area": "佐賀南部",
+    "lat": 33.329196,
+    "lng": 130.310657,
+    "has_exact_location": true
+  },
+  {
+    "name": "kusukusu 佐賀店",
+    "category": "食品・飲料",
+    "area": "佐賀東部",
+    "lat": 33.257301,
+    "lng": 130.332077,
+    "has_exact_location": false
+  },
+  {
+    "name": "kusukusu 兵庫店",
+    "category": "食品・飲料",
+    "area": "佐賀西部",
+    "lat": 33.258904,
+    "lng": 130.315112,
+    "has_exact_location": true
+  },
+  {
+    "name": "栗林米穀",
+    "category": "食品・飲料",
+    "area": "佐賀北部",
+    "lat": 33.280728,
+    "lng": 130.306831,
+    "has_exact_location": false
+  },
+  {
+    "name": "グレンドールゆめタウン佐賀店",
+    "category": "食品・飲料",
+    "area": "佐賀東部",
+    "lat": 33.27513,
+    "lng": 130.308199,
+    "has_exact_location": true
+  },
+  {
+    "name": "玄米食おひさま",
+    "category": "食品・飲料",
+    "area": "中心市街地",
+    "lat": 33.258997,
+    "lng": 130.291853,
+    "has_exact_location": true
+  },
+  {
+    "name": "古賀食鳥",
+    "category": "食品・飲料",
+    "area": "中心市街地",
+    "lat": 33.280072,
+    "lng": 130.281243,
+    "has_exact_location": true
+  },
+  {
+    "name": "kog a BAKES",
+    "category": "食品・飲料",
+    "area": "佐賀東部",
+    "lat": 33.263803,
+    "lng": 130.317579,
+    "has_exact_location": true
+  },
+  {
+    "name": "酒の田中",
+    "category": "食品・飲料",
+    "area": "佐賀南部",
+    "lat": 33.25802,
+    "lng": 130.293225,
+    "has_exact_location": true
+  },
+  {
+    "name": "佐星醤油",
+    "category": "食品・飲料",
+    "area": "佐賀東部",
+    "lat": 33.255838,
+    "lng": 130.299494,
+    "has_exact_location": true
+  },
+  {
+    "name": "サンクゼール・久世福商店 ゆめタウ",
+    "category": "食品・飲料",
+    "area": "佐賀北部",
+    "lat": 33.275772,
+    "lng": 130.308295,
+    "has_exact_location": true
+  },
+  {
+    "name": "ン佐賀店",
+    "category": "食品・飲料",
+    "area": "中心市街地",
+    "lat": 33.308762,
+    "lng": 130.381427,
+    "has_exact_location": true
+  },
+  {
+    "name": "地酒処山田酒店",
+    "category": "食品・飲料",
+    "area": "佐賀西部",
+    "lat": 33.245516,
+    "lng": 130.295838,
+    "has_exact_location": true
+  },
+  {
+    "name": "しめなわ",
+    "category": "食品・飲料",
+    "area": "川副",
+    "lat": 33.263537,
+    "lng": 130.294505,
+    "has_exact_location": true
+  },
+  {
+    "name": "菅米穀店",
+    "category": "食品・飲料",
+    "area": "中心市街地",
+    "lat": 33.263893,
+    "lng": 130.292958,
+    "has_exact_location": true
+  },
+  {
+    "name": "CENTRAL BEEF",
+    "category": "食品・飲料",
+    "area": "川副",
+    "lat": 33.26397,
+    "lng": 130.297185,
+    "has_exact_location": true
+  },
+  {
+    "name": "高橋餅本舗 福屋",
+    "category": "食品・飲料",
+    "area": "諸富",
+    "lat": 33.244935,
+    "lng": 130.271104,
+    "has_exact_location": true
+  },
+  {
+    "name": "竹八",
+    "category": "食品・飲料",
+    "area": "佐賀西部",
+    "lat": 33.22524,
+    "lng": 130.283007,
+    "has_exact_location": true
+  },
+  {
+    "name": "竹八 えきマチ 1 丁目佐賀駅店",
+    "category": "食品・飲料",
+    "area": "東与賀",
+    "lat": 33.264196,
+    "lng": 130.297939,
+    "has_exact_location": true
+  },
+  {
+    "name": "竹八漬本舗犬井道本店",
+    "category": "食品・飲料",
+    "area": "中心市街地",
+    "lat": 33.186285,
+    "lng": 130.319219,
+    "has_exact_location": true
+  },
+  {
+    "name": "橋の駅ドロンパ",
+    "category": "食品・飲料",
+    "area": "諸富",
+    "lat": 33.216727,
+    "lng": 130.359855,
+    "has_exact_location": true
+  },
+  {
+    "name": "HungrybowL market",
+    "category": "食品・飲料",
+    "area": "大和",
+    "lat": 33.248935,
+    "lng": 130.283954,
+    "has_exact_location": true
+  },
+  {
+    "name": "秀島米穀",
+    "category": "食品・飲料",
+    "area": "佐賀北部",
+    "lat": 33.211914,
+    "lng": 130.300934,
+    "has_exact_location": true
+  },
+  {
+    "name": "福岡精肉・デリカ",
+    "category": "食品・飲料",
+    "area": "川副",
+    "lat": 33.253697,
+    "lng": 130.30371,
+    "has_exact_location": true
+  },
+  {
+    "name": "松原屋酒店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.251547,
+    "lng": 130.305902,
+    "has_exact_location": true
+  },
+  {
+    "name": "丸秀醤油",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.29198,
+    "lng": 130.282916,
+    "has_exact_location": true
+  },
+  {
+    "name": "丸福精肉店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.258173,
+    "lng": 130.299042,
+    "has_exact_location": true
+  },
+  {
+    "name": "萬坊 えきマチ 1 丁目佐賀店",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.264079,
+    "lng": 130.297809,
+    "has_exact_location": true
+  },
+  {
+    "name": "三重津みやげホスムスカモス",
+    "category": "飲食店",
+    "area": "川副",
+    "lat": 33.208729,
+    "lng": 130.338488,
+    "has_exact_location": true
+  },
+  {
+    "name": "光吉農産",
+    "category": "飲食店",
+    "area": "川副",
+    "lat": 33.199245,
+    "lng": 130.334805,
+    "has_exact_location": true
+  },
+  {
+    "name": "みどりや茶舗",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.235679,
+    "lng": 130.293411,
+    "has_exact_location": true
+  },
+  {
+    "name": "MIFUKUAN",
+    "category": "飲食店",
+    "area": "川副",
+    "lat": 33.212741,
+    "lng": 130.309592,
+    "has_exact_location": true
+  },
+  {
+    "name": "ミルクス",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.26156,
+    "lng": 130.27393,
+    "has_exact_location": true
+  },
+  {
+    "name": "ムーランルージュ夢咲店",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.266892,
+    "lng": 130.313595,
+    "has_exact_location": true
+  },
+  {
+    "name": "森まんじゅう店",
+    "category": "飲食店",
+    "area": "佐賀南部",
+    "lat": 33.240108,
+    "lng": 130.322286,
+    "has_exact_location": true
+  },
+  {
+    "name": "(有)古川商店",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.294714,
+    "lng": 130.28658,
+    "has_exact_location": true
+  },
+  {
+    "name": "よつばパン",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.271404,
+    "lng": 130.27573,
+    "has_exact_location": true
+  },
+  {
+    "name": "Rose",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.275006,
+    "lng": 130.325519,
+    "has_exact_location": true
+  },
+  {
+    "name": "ローズテラス",
+    "category": "飲食店",
+    "area": "佐賀北部",
+    "lat": 33.266597,
+    "lng": 130.297802,
+    "has_exact_location": true
+  },
+  {
+    "name": "わいわいファーム佐賀大和店",
+    "category": "飲食店",
+    "area": "大和",
+    "lat": 33.304365,
+    "lng": 130.280992,
+    "has_exact_location": true
+  },
+  {
+    "name": "グッデイ佐賀本庄店",
+    "category": "ホームセンター 日用品・リサイクル",
+    "area": "佐賀南部",
+    "lat": 33.244409,
+    "lng": 130.282409,
+    "has_exact_location": true
+  },
+  {
+    "name": "ミスターマックス佐賀店",
+    "category": "ホームセンター 日用品・リサイクル",
+    "area": "佐賀東部",
+    "lat": 33.25264,
+    "lng": 130.317608,
+    "has_exact_location": true
+  },
+  {
+    "name": "アップガレージ佐賀店",
+    "category": "自動車・バイク・自転車・修理工場",
+    "area": "佐賀東部",
+    "lat": 33.252846,
+    "lng": 130.311893,
+    "has_exact_location": true
+  },
+  {
+    "name": "イエローハット佐賀鍋島店",
+    "category": "自動車・バイク・自転車・修理工場",
+    "area": "佐賀北部",
+    "lat": 33.269549,
+    "lng": 130.271077,
+    "has_exact_location": true
+  },
+  {
+    "name": "イエローハットモラージュ佐賀店",
+    "category": "自動車・バイク・自転車・修理工場",
+    "area": "佐賀東部",
+    "lat": 33.25194,
+    "lng": 130.321011,
+    "has_exact_location": true
+  },
+  {
+    "name": "SBS SAGA MURAOKA",
+    "category": "自動車・バイク・自転車・修理工場",
+    "area": "佐賀南部",
+    "lat": 33.239146,
+    "lng": 130.304054,
+    "has_exact_location": true
+  },
+  {
+    "name": "カークリエイトフチノ",
+    "category": "自動車・バイク・自転車・修理工場",
+    "area": "東与賀",
+    "lat": 33.20106,
+    "lng": 130.284489,
+    "has_exact_location": true
+  },
+  {
+    "name": "くわはら鍼灸整骨院",
+    "category": "自動車・バイク・自転車・修理工場",
+    "area": "佐賀南部",
+    "lat": 33.22177,
+    "lng": 130.312118,
+    "has_exact_location": false
+  },
+  {
+    "name": "サイクランドモリ",
+    "category": "自動車・バイク・自転車・修理工場",
+    "area": "佐賀西部",
+    "lat": 33.248422,
+    "lng": 130.284017,
+    "has_exact_location": true
+  },
+  {
+    "name": "サイクルショップサンダーロード",
+    "category": "自動車・バイク・自転車・修理工場",
+    "area": "中心市街地",
+    "lat": 33.25382,
+    "lng": 130.303445,
+    "has_exact_location": true
+  },
+  {
+    "name": "サイクルセンター七田",
+    "category": "自動車・バイク・自転車・修理工場",
+    "area": "中心市街地",
+    "lat": 33.264291,
+    "lng": 130.295311,
+    "has_exact_location": true
+  },
+  {
+    "name": "自転車流通卸売センターBROC 南佐賀店",
+    "category": "自動車・バイク・自転車・修理工場",
+    "area": "佐賀南部",
+    "lat": 33.487177,
+    "lng": 130.419481,
+    "has_exact_location": true
+  },
+  {
+    "name": "セキモトサイクル",
+    "category": "自動車・バイク・自転車・修理工場",
+    "area": "中心市街地",
+    "lat": 33.263117,
+    "lng": 130.302741,
+    "has_exact_location": true
+  },
+  {
+    "name": "タイヤスタジアム",
+    "category": "自動車・バイク・自転車・修理工場",
+    "area": "佐賀東部",
+    "lat": 33.277389,
+    "lng": 130.339041,
+    "has_exact_location": true
+  },
+  {
+    "name": "田中タイヤ",
+    "category": "自動車・バイク・自転車・修理工場",
+    "area": "佐賀東部",
+    "lat": 33.253801,
+    "lng": 130.311561,
+    "has_exact_location": true
+  },
+  {
+    "name": "トータルオートサービスひぜん",
+    "category": "自動車・バイク・自転車・修理工場",
+    "area": "佐賀北部",
+    "lat": 33.292716,
+    "lng": 130.291334,
+    "has_exact_location": true
+  },
+  {
+    "name": "トヨタレンタリース嘉瀬町店",
+    "category": "自動車・バイク・自転車・修理工場",
+    "area": "中心市街地",
+    "lat": 33.248321,
+    "lng": 130.265235,
+    "has_exact_location": true
+  },
+  {
+    "name": "中折輪業",
+    "category": "自動車・バイク・自転車・修理工場",
+    "area": "佐賀西部",
+    "lat": 33.259296,
+    "lng": 130.282313,
+    "has_exact_location": true
+  },
+  {
+    "name": "中牟田モータース",
+    "category": "自動車・バイク・自転車・修理工場",
+    "area": "大和",
+    "lat": 33.307432,
+    "lng": 130.282087,
+    "has_exact_location": true
+  },
+  {
+    "name": "西九州マツダ 城北店",
+    "category": "自動車・バイク・自転車・修理工場",
+    "area": "佐賀西部",
+    "lat": 33.276316,
+    "lng": 130.301768,
+    "has_exact_location": true
+  },
+  {
+    "name": "西九州マツダ 佐賀店",
+    "category": "自動車・バイク・自転車・修理工場",
+    "area": "佐賀西部",
+    "lat": 33.24509,
+    "lng": 130.272195,
+    "has_exact_location": true
+  },
+  {
+    "name": "富士オート",
+    "category": "自動車・バイク・自転車・修理工場",
+    "area": "富士",
+    "lat": 33.367107,
+    "lng": 130.204956,
+    "has_exact_location": true
+  },
+  {
+    "name": "モトシマテクニカルセンター",
+    "category": "自動車・バイク・自転車・修理工場",
+    "area": "佐賀東部",
+    "lat": 33.265417,
+    "lng": 130.327245,
+    "has_exact_location": true
+  },
+  {
+    "name": "ヤマグチサイクル",
+    "category": "自動車・バイク・自転車・修理工場",
+    "area": "佐賀北部",
+    "lat": 33.279714,
+    "lng": 130.282147,
+    "has_exact_location": true
+  },
+  {
+    "name": "山﨑鈑金塗装整備工場",
+    "category": "自動車・バイク・自転車・修理工場",
+    "area": "久保田",
+    "lat": 33.249732,
+    "lng": 130.220798,
+    "has_exact_location": true
+  },
+  {
+    "name": "ローリングキッズ",
+    "category": "自動車・バイク・自転車・修理工場",
+    "area": "佐賀東部",
+    "lat": 33.275031,
+    "lng": 130.316963,
+    "has_exact_location": true
+  },
+  {
+    "name": "ロデオサイクル",
+    "category": "自動車・バイク・自転車・修理工場",
+    "area": "佐賀北部",
+    "lat": 33.264937,
+    "lng": 130.27682,
+    "has_exact_location": true
+  },
+  {
+    "name": "石動丸商店",
+    "category": "ガソリン・石油・プロパン",
+    "area": "大和",
+    "lat": 33.28531,
+    "lng": 130.252573,
+    "has_exact_location": true
+  },
+  {
+    "name": "栄城石油 本庄給油所",
+    "category": "ガソリン・石油・プロパン",
+    "area": "佐賀南部",
+    "lat": 33.243814,
+    "lng": 130.283072,
+    "has_exact_location": true
+  },
+  {
+    "name": "ENEOS 佐賀 SS",
+    "category": "ガソリン・石油・プロパン",
+    "area": "佐賀西部",
+    "lat": 33.285904,
+    "lng": 130.288499,
+    "has_exact_location": true
+  },
+  {
+    "name": "小柳石油 天祐給油所",
+    "category": "ガソリン・石油・プロパン",
+    "area": "佐賀西部",
+    "lat": 33.257336,
+    "lng": 130.282965,
+    "has_exact_location": true
+  },
+  {
+    "name": "小柳石油 Dr.Drive 蓮池",
+    "category": "ガソリン・石油・プロパン",
+    "area": "佐賀東部",
+    "lat": 33.247719,
+    "lng": 130.353006,
+    "has_exact_location": true
+  },
+  {
+    "name": "小柳石油 若楠給油所",
+    "category": "ガソリン・石油・プロパン",
+    "area": "佐賀北部",
+    "lat": 33.279866,
+    "lng": 130.284202,
+    "has_exact_location": true
+  },
+  {
+    "name": "ナオツカ 末広 S・S",
+    "category": "ガソリン・石油・プロパン",
+    "area": "佐賀南部",
+    "lat": 33.241939,
+    "lng": 130.277286,
+    "has_exact_location": true
+  },
+  {
+    "name": "羽立石油店",
+    "category": "ガソリン・石油・プロパン",
+    "area": "佐賀北部",
+    "lat": 33.311846,
+    "lng": 130.301155,
+    "has_exact_location": true
+  },
+  {
+    "name": "プラザキタジマ",
+    "category": "ガソリン・石油・プロパン",
+    "area": "川副",
+    "lat": 33.192358,
+    "lng": 130.315593,
+    "has_exact_location": true
+  },
+  {
+    "name": "吉田石油店",
+    "category": "ガソリン・石油・プロパン",
+    "area": "諸富",
+    "lat": 33.235228,
+    "lng": 130.270624,
+    "has_exact_location": true
+  },
+  {
+    "name": "アウトドアショップベースキャンプ",
+    "category": "生活・趣味・書店・冠婚葬祭",
+    "area": "佐賀北部",
+    "lat": 33.262486,
+    "lng": 130.279912,
+    "has_exact_location": true
+  },
+  {
+    "name": "小川楽器 佐賀店",
+    "category": "生活・趣味・書店・冠婚葬祭",
+    "area": "佐賀北部",
+    "lat": 33.264241,
+    "lng": 130.294988,
+    "has_exact_location": true
+  },
+  {
+    "name": "ギターショップ まる屋",
+    "category": "生活・趣味・書店・冠婚葬祭",
+    "area": "中心市街地",
+    "lat": 33.253424,
+    "lng": 130.302044,
+    "has_exact_location": true
+  },
+  {
+    "name": "紀伊國屋書店佐賀店",
+    "category": "生活・趣味・書店・冠婚葬祭",
+    "area": "佐賀東部",
+    "lat": 33.275559,
+    "lng": 130.307905,
+    "has_exact_location": true
+  },
+  {
+    "name": "くまざわ書店佐賀店",
+    "category": "生活・趣味・書店・冠婚葬祭",
+    "area": "大和",
+    "lat": 33.277806,
+    "lng": 130.299264,
+    "has_exact_location": true
+  },
+  {
+    "name": "久米楽器店",
+    "category": "生活・趣味・書店・冠婚葬祭",
+    "area": "佐賀東部",
+    "lat": 33.252453,
+    "lng": 130.312441,
+    "has_exact_location": true
+  },
+  {
+    "name": "子どもの本屋ピピン",
+    "category": "生活・趣味・書店・冠婚葬祭",
+    "area": "中心市街地",
+    "lat": 33.254809,
+    "lng": 130.303871,
+    "has_exact_location": true
+  },
+  {
+    "name": "陶器たて石",
+    "category": "生活・趣味・書店・冠婚葬祭",
+    "area": "中心市街地",
+    "lat": 33.264376,
+    "lng": 130.298428,
+    "has_exact_location": true
+  },
+  {
+    "name": "富﨑陶器",
+    "category": "生活・趣味・書店・冠婚葬祭",
+    "area": "川副",
+    "lat": 33.216938,
+    "lng": 130.322955,
+    "has_exact_location": true
+  },
+  {
+    "name": "トライ・アムサンカクヤ 佐賀店",
+    "category": "生活・趣味・書店・冠婚葬祭",
+    "area": "佐賀南部",
+    "lat": 33.239718,
+    "lng": 130.319005,
+    "has_exact_location": true
+  },
+  {
+    "name": "深川製磁佐賀店",
+    "category": "生活・趣味・書店・冠婚葬祭",
+    "area": "中心市街地",
+    "lat": 33.253021,
+    "lng": 130.304108,
+    "has_exact_location": true
+  },
+  {
+    "name": "フルールドソレイユ",
+    "category": "生活・趣味・書店・冠婚葬祭",
+    "area": "佐賀東部",
+    "lat": 33.261749,
+    "lng": 130.317444,
+    "has_exact_location": true
+  },
+  {
+    "name": "本庄仏具総本店",
+    "category": "生活・趣味・書店・冠婚葬祭",
+    "area": "中心市街地",
+    "lat": 33.250378,
+    "lng": 130.295158,
+    "has_exact_location": true
+  },
+  {
+    "name": "本庄佛壇本舗",
+    "category": "生活・趣味・書店・冠婚葬祭",
+    "area": "佐賀南部",
+    "lat": 33.249644,
+    "lng": 130.306628,
+    "has_exact_location": true
+  },
+  {
+    "name": "村山佛光堂本店",
+    "category": "生活・趣味・書店・冠婚葬祭",
+    "area": "佐賀南部",
+    "lat": 33.249251,
+    "lng": 130.306661,
+    "has_exact_location": true
+  },
+  {
+    "name": "axesfemme ゆめタウン佐賀店",
+    "category": "衣料・靴・カバン",
+    "area": "佐賀東部",
+    "lat": 33.275788,
+    "lng": 130.308371,
+    "has_exact_location": true
+  },
+  {
+    "name": "apres les cours ・ apres les",
+    "category": "衣料・靴・カバン",
+    "area": "佐賀東部",
+    "lat": 33.275617,
+    "lng": 130.307616,
+    "has_exact_location": true
+  },
+  {
+    "name": "cours ゆめタウン佐賀店",
+    "category": "衣料・靴・カバン",
+    "area": "佐賀東部",
+    "lat": 33.275617,
+    "lng": 130.307616,
+    "has_exact_location": true
+  },
+  {
+    "name": "ALGY ゆめタウン佐賀",
+    "category": "衣料・靴・カバン",
+    "area": "佐賀東部",
+    "lat": 33.275559,
+    "lng": 130.307905,
+    "has_exact_location": true
+  },
+  {
+    "name": "and quarter ゆめタウン佐賀店",
+    "category": "衣料・靴・カバン",
+    "area": "中心市街地",
+    "lat": 33.275431,
+    "lng": 130.308389,
+    "has_exact_location": true
+  },
+  {
+    "name": "アンビシャス",
+    "category": "衣料・靴・カバン",
+    "area": "中心市街地",
+    "lat": 33.255069,
+    "lng": 130.302002,
+    "has_exact_location": true
+  },
+  {
+    "name": "イマジンフェイス",
+    "category": "衣料・靴・カバン",
+    "area": "佐賀北部",
+    "lat": 33.255146,
+    "lng": 130.303842,
+    "has_exact_location": true
+  },
+  {
+    "name": "エスポワール",
+    "category": "衣料・靴・カバン",
+    "area": "佐賀東部",
+    "lat": 33.240277,
+    "lng": 130.321127,
+    "has_exact_location": true
+  },
+  {
+    "name": "ORDER BOX / BIG M ONE",
+    "category": "衣料・靴・カバン",
+    "area": "中心市街地",
+    "lat": 33.265646,
+    "lng": 130.272446,
+    "has_exact_location": true
+  },
+  {
+    "name": "おはきもの処 中牟田",
+    "category": "衣料・靴・カバン",
+    "area": "大和",
+    "lat": 33.255267,
+    "lng": 130.300677,
+    "has_exact_location": true
+  },
+  {
+    "name": "ガージュ 佐賀大和店",
+    "category": "衣料・靴・カバン",
+    "area": "佐賀東部",
+    "lat": 33.294565,
+    "lng": 130.284307,
+    "has_exact_location": true
+  },
+  {
+    "name": "ガージュ モラージュ佐賀店",
+    "category": "衣料・靴・カバン",
+    "area": "佐賀南部",
+    "lat": 33.252437,
+    "lng": 130.318593,
+    "has_exact_location": true
+  },
+  {
+    "name": "クラフト工房たっきー",
+    "category": "衣料・靴・カバン",
+    "area": "中心市街地",
+    "lat": 33.228918,
+    "lng": 130.147537,
+    "has_exact_location": true
+  },
+  {
+    "name": "コイケスポーツ",
+    "category": "衣料・靴・カバン",
+    "area": "佐賀北部",
+    "lat": 33.263304,
+    "lng": 130.298691,
+    "has_exact_location": true
+  },
+  {
+    "name": "CIRCLE",
+    "category": "衣料・靴・カバン",
+    "area": "佐賀南部",
+    "lat": 33.269695,
+    "lng": 130.279124,
+    "has_exact_location": true
+  },
+  {
+    "name": "サロンドクレア",
+    "category": "衣料・靴・カバン",
+    "area": "佐賀東部",
+    "lat": 33.251233,
+    "lng": 130.305253,
+    "has_exact_location": true
+  },
+  {
+    "name": "シェルブルー",
+    "category": "衣料・靴・カバン",
+    "area": "佐賀東部",
+    "lat": 33.275172,
+    "lng": 130.306078,
+    "has_exact_location": true
+  },
+  {
+    "name": "シューズ愛ランド佐賀店",
+    "category": "衣料・靴・カバン",
+    "area": "佐賀東部",
+    "lat": 33.265133,
+    "lng": 130.316204,
+    "has_exact_location": true
+  },
+  {
+    "name": "秀粋苑中山",
+    "category": "衣料・靴・カバン",
+    "area": "佐賀東部",
+    "lat": 33.255874,
+    "lng": 130.310999,
+    "has_exact_location": true
+  },
+  {
+    "name": "ショット佐賀店",
+    "category": "衣料・靴・カバン",
+    "area": "中心市街地",
+    "lat": 33.266325,
+    "lng": 130.315497,
+    "has_exact_location": true
+  },
+  {
+    "name": "スールはま",
+    "category": "衣料・靴・カバン",
+    "area": "中心市街地",
+    "lat": 33.258691,
+    "lng": 130.298586,
+    "has_exact_location": true
+  },
+  {
+    "name": "THREELOG",
+    "category": "衣料・靴・カバン",
+    "area": "中心市街地",
+    "lat": 33.256218,
+    "lng": 130.303414,
+    "has_exact_location": true
+  },
+  {
+    "name": "ソレイユ",
+    "category": "衣料・靴・カバン",
+    "area": "佐賀南部",
+    "lat": 33.263302,
+    "lng": 130.29652,
+    "has_exact_location": true
+  },
+  {
+    "name": "D-STOCK SAGA",
+    "category": "衣料・靴・カバン",
+    "area": "大和",
+    "lat": 33.207119,
+    "lng": 130.335636,
+    "has_exact_location": true
+  },
+  {
+    "name": "Two story",
+    "category": "衣料・靴・カバン",
+    "area": "中心市街地",
+    "lat": 33.304188,
+    "lng": 130.280646,
+    "has_exact_location": true
+  },
+  {
+    "name": "ドリス 佐賀店",
+    "category": "衣料・靴・カバン",
+    "area": "中心市街地",
+    "lat": 33.264022,
+    "lng": 130.298349,
+    "has_exact_location": true
+  },
+  {
+    "name": "news",
+    "category": "衣料・靴・カバン",
+    "area": "佐賀東部",
+    "lat": 33.256109,
+    "lng": 130.340867,
+    "has_exact_location": false
+  },
+  {
+    "name": "HugHug モラージュ佐賀店",
+    "category": "衣料・靴・カバン",
+    "area": "諸富",
+    "lat": 33.252473,
+    "lng": 130.319119,
+    "has_exact_location": true
+  },
+  {
+    "name": "はしもと諸富店",
+    "category": "衣料・靴・カバン",
+    "area": "中心市街地",
+    "lat": 33.226181,
+    "lng": 130.346024,
+    "has_exact_location": true
+  },
+  {
+    "name": "バッグ 婦人服 絵夢恵",
+    "category": "衣料・靴・カバン",
+    "area": "佐賀東部",
+    "lat": 33.264352,
+    "lng": 130.298269,
+    "has_exact_location": true
+  },
+  {
+    "name": "PAPA'S&MAMA'S ゆめタウン佐賀店",
+    "category": "衣料・靴・カバン",
+    "area": "佐賀東部",
+    "lat": 33.275991,
+    "lng": 130.308689,
+    "has_exact_location": true
+  },
+  {
+    "name": "バラエテイー",
+    "category": "衣料・靴・カバン",
+    "area": "東与賀",
+    "lat": 33.261504,
+    "lng": 130.317783,
+    "has_exact_location": true
+  },
+  {
+    "name": "ふぁっしょんぷらざフクチ",
+    "category": "衣料・靴・カバン",
+    "area": "大和",
+    "lat": 33.228307,
+    "lng": 130.296514,
+    "has_exact_location": true
+  },
+  {
+    "name": "ファミリー大和店",
+    "category": "衣料・靴・カバン",
+    "area": "佐賀東部",
+    "lat": 33.309296,
+    "lng": 130.281274,
+    "has_exact_location": true
+  },
+  {
+    "name": "BREEZE",
+    "category": "衣料・靴・カバン",
+    "area": "中心市街地",
+    "lat": 33.275559,
+    "lng": 130.307905,
+    "has_exact_location": true
+  },
+  {
+    "name": "ペーパームーン",
+    "category": "衣料・靴・カバン",
+    "area": "佐賀南部",
+    "lat": 33.256758,
+    "lng": 130.299342,
+    "has_exact_location": true
+  },
+  {
+    "name": "HOLIDAYS IN THE SUN",
+    "category": "衣料・靴・カバン",
+    "area": "中心市街地",
+    "lat": 33.239194,
+    "lng": 130.301871,
+    "has_exact_location": true
+  },
+  {
+    "name": "The Maccheroni",
+    "category": "衣料・靴・カバン",
+    "area": "佐賀西部",
+    "lat": 33.256116,
+    "lng": 130.29953,
+    "has_exact_location": true
+  },
+  {
+    "name": "マツセン商会",
+    "category": "衣料・靴・カバン",
+    "area": "大和",
+    "lat": 33.257248,
+    "lng": 130.273379,
+    "has_exact_location": true
+  },
+  {
+    "name": "ミュージアム",
+    "category": "衣料・靴・カバン",
+    "area": "大和",
+    "lat": 33.259895,
+    "lng": 130.108758,
+    "has_exact_location": true
+  },
+  {
+    "name": "モードモーダ・モードヒルズ",
+    "category": "衣料・靴・カバン",
+    "area": "川副",
+    "lat": 33.304702,
+    "lng": 130.28017,
+    "has_exact_location": true
+  },
+  {
+    "name": "ユニフォームの内田",
+    "category": "衣料・靴・カバン",
+    "area": "佐賀東部",
+    "lat": 33.21214,
+    "lng": 130.310908,
+    "has_exact_location": true
+  },
+  {
+    "name": "ラパックスワールド 佐賀モラージュ店",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.252416,
+    "lng": 130.318645,
+    "has_exact_location": true
+  },
+  {
+    "name": "リユースブティック おでかけびより",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.294157,
+    "lng": 130.229693,
+    "has_exact_location": true
+  },
+  {
+    "name": "ルーシー＆バースト",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.252458,
+    "lng": 130.31895,
+    "has_exact_location": true
+  },
+  {
+    "name": "RED STOCK モラージュ佐賀店",
+    "category": "飲食店",
+    "area": "佐賀東部",
+    "lat": 33.252324,
+    "lng": 130.319523,
+    "has_exact_location": true
+  },
+  {
+    "name": "ザ・クロックハウス 佐賀大和店",
+    "category": "時計・宝石・貴金属・眼鏡",
+    "area": "大和",
+    "lat": 33.303626,
+    "lng": 130.281097,
+    "has_exact_location": true
+  },
+  {
+    "name": "新古賀",
+    "category": "時計・宝石・貴金属・眼鏡",
+    "area": "中心市街地",
+    "lat": 33.252481,
+    "lng": 130.305347,
+    "has_exact_location": true
+  },
+  {
+    "name": "真珠 宝石のみほの",
+    "category": "時計・宝石・貴金属・眼鏡",
+    "area": "中心市街地",
+    "lat": 33.249182,
+    "lng": 130.306642,
+    "has_exact_location": false
+  },
+  {
+    "name": "ナカシマパーツ",
+    "category": "時計・宝石・貴金属・眼鏡",
+    "area": "中心市街地",
+    "lat": 33.264824,
+    "lng": 130.307782,
+    "has_exact_location": false
+  },
+  {
+    "name": "日眼メガネ",
+    "category": "時計・宝石・貴金属・眼鏡",
+    "area": "中心市街地",
+    "lat": 33.257546,
+    "lng": 130.309409,
+    "has_exact_location": true
+  },
+  {
+    "name": "ノナカジュエリー",
+    "category": "時計・宝石・貴金属・眼鏡",
+    "area": "佐賀北部",
+    "lat": 33.27779,
+    "lng": 130.265974,
+    "has_exact_location": true
+  },
+  {
+    "name": "福田時計店",
+    "category": "時計・宝石・貴金属・眼鏡",
+    "area": "中心市街地",
+    "lat": 33.253181,
+    "lng": 130.30789,
+    "has_exact_location": false
+  },
+  {
+    "name": "メガネの落合",
+    "category": "時計・宝石・貴金属・眼鏡",
+    "area": "中心市街地",
+    "lat": 33.254893,
+    "lng": 130.303295,
+    "has_exact_location": true
+  },
+  {
+    "name": "ウエディングスタイルアジュール",
+    "category": "クリーニング・補修・レンタル",
+    "area": "中心市街地",
+    "lat": 33.265087,
+    "lng": 130.298148,
+    "has_exact_location": true
+  },
+  {
+    "name": "ＮＫサービス",
+    "category": "クリーニング・補修・レンタル",
+    "area": "佐賀東部",
+    "lat": 33.249505,
+    "lng": 130.231309,
+    "has_exact_location": true
+  },
+  {
+    "name": "花古賀貸衣裳店",
+    "category": "クリーニング・補修・レンタル",
+    "area": "佐賀南部",
+    "lat": 33.250977,
+    "lng": 130.307359,
+    "has_exact_location": true
+  },
+  {
+    "name": "晴着のレンタル UB-1",
+    "category": "クリーニング・補修・レンタル",
+    "area": "佐賀北部",
+    "lat": 33.262912,
+    "lng": 130.294611,
+    "has_exact_location": true
+  },
+  {
+    "name": "aiai ビューティーサロン",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀南部",
+    "lat": 33.250847,
+    "lng": 130.304539,
+    "has_exact_location": true
+  },
+  {
+    "name": "ADORE OF HAIR",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀東部",
+    "lat": 33.268937,
+    "lng": 130.315513,
+    "has_exact_location": true
+  },
+  {
+    "name": "アミュー （アルビオン＆エレガンス）",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀西部",
+    "lat": 33.258746,
+    "lng": 130.286713,
+    "has_exact_location": true
+  },
+  {
+    "name": "Angelico",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀東部",
+    "lat": 33.269758,
+    "lng": 130.310119,
+    "has_exact_location": true
+  },
+  {
+    "name": "おしゃれの店 グレース",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀東部",
+    "lat": 33.262472,
+    "lng": 130.319897,
+    "has_exact_location": true
+  },
+  {
+    "name": "カットサロン田中",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀北部",
+    "lat": 33.280447,
+    "lng": 130.296516,
+    "has_exact_location": true
+  },
+  {
+    "name": "髪切処なかしま",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀北部",
+    "lat": 33.262088,
+    "lng": 130.275771,
+    "has_exact_location": true
+  },
+  {
+    "name": "color・F low",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀南部",
+    "lat": 33.238368,
+    "lng": 130.285279,
+    "has_exact_location": true
+  },
+  {
+    "name": "錦粧",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "中心市街地",
+    "lat": 33.253579,
+    "lng": 130.303997,
+    "has_exact_location": true
+  },
+  {
+    "name": "酵素温浴 Ru3in",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀北部",
+    "lat": 33.283686,
+    "lng": 130.268766,
+    "has_exact_location": true
+  },
+  {
+    "name": "COCO LABO",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀東部",
+    "lat": 33.273524,
+    "lng": 130.305837,
+    "has_exact_location": true
+  },
+  {
+    "name": "コスメテリア佐賀店",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀東部",
+    "lat": 33.275717,
+    "lng": 130.307198,
+    "has_exact_location": true
+  },
+  {
+    "name": "さくま 開成店",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀北部",
+    "lat": 33.271903,
+    "lng": 130.276846,
+    "has_exact_location": true
+  },
+  {
+    "name": "さくま 高木瀬店",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀北部",
+    "lat": 33.271903,
+    "lng": 130.276846,
+    "has_exact_location": true
+  },
+  {
+    "name": "シャディサラダ館巨勢店",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀東部",
+    "lat": 33.26297,
+    "lng": 130.323449,
+    "has_exact_location": true
+  },
+  {
+    "name": "su.ha.ku.yoga",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "諸富",
+    "lat": 33.228721,
+    "lng": 130.356804,
+    "has_exact_location": true
+  },
+  {
+    "name": "SOLEIL",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀北部",
+    "lat": 33.260142,
+    "lng": 130.298251,
+    "has_exact_location": true
+  },
+  {
+    "name": "ソワンエステ Fo’real",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "中心市街地",
+    "lat": 33.25777,
+    "lng": 130.300628,
+    "has_exact_location": true
+  },
+  {
+    "name": "立川化粧品",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "川副",
+    "lat": 33.185654,
+    "lng": 130.319172,
+    "has_exact_location": true
+  },
+  {
+    "name": "田中化粧品店",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀北部",
+    "lat": 33.26416,
+    "lng": 130.292907,
+    "has_exact_location": true
+  },
+  {
+    "name": "Douce（ドゥース）",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀北部",
+    "lat": 33.27019,
+    "lng": 130.278151,
+    "has_exact_location": true
+  },
+  {
+    "name": "Total beauty Luna",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "中心市街地",
+    "lat": 33.26307,
+    "lng": 130.300048,
+    "has_exact_location": true
+  },
+  {
+    "name": "ドライヘッドスパ専門店サロン elsol",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀北部",
+    "lat": 33.271597,
+    "lng": 130.25927,
+    "has_exact_location": true
+  },
+  {
+    "name": "Nadja",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀東部",
+    "lat": 33.263516,
+    "lng": 130.314285,
+    "has_exact_location": true
+  },
+  {
+    "name": "Nail&Beauty Bloom",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀北部",
+    "lat": 33.273595,
+    "lng": 130.279265,
+    "has_exact_location": true
+  },
+  {
+    "name": "nemrico ドライヘッドスパ&温活サロン",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "中心市街地",
+    "lat": 33.259284,
+    "lng": 130.298119,
+    "has_exact_location": true
+  },
+  {
+    "name": "Be plus salon",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀北部",
+    "lat": 33.261586,
+    "lng": 130.273655,
+    "has_exact_location": true
+  },
+  {
+    "name": "美容室・ふぁすと・すねいく",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀北部",
+    "lat": 33.267648,
+    "lng": 130.285424,
+    "has_exact_location": true
+  },
+  {
+    "name": "美容室ビリー",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀南部",
+    "lat": 33.246761,
+    "lng": 130.293234,
+    "has_exact_location": true
+  },
+  {
+    "name": "美容・神経整体院 ネルスリープ",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀西部",
+    "lat": 33.258749,
+    "lng": 130.286674,
+    "has_exact_location": true
+  },
+  {
+    "name": "private salon utatane",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀東部",
+    "lat": 33.254697,
+    "lng": 130.323578,
+    "has_exact_location": true
+  },
+  {
+    "name": "Brilliant",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "中心市街地",
+    "lat": 33.256407,
+    "lng": 130.302736,
+    "has_exact_location": true
+  },
+  {
+    "name": "fleur（脱毛サロン）",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "大和",
+    "lat": 33.259379,
+    "lng": 130.300647,
+    "has_exact_location": true
+  },
+  {
+    "name": "fleur （リンパケアサロン）",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "大和",
+    "lat": 33.259717,
+    "lng": 130.316756,
+    "has_exact_location": true
+  },
+  {
+    "name": "ヘアー&エステ アロイジア",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀東部",
+    "lat": 33.260559,
+    "lng": 130.316937,
+    "has_exact_location": true
+  },
+  {
+    "name": "ヘアーメイク リムズ",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀南部",
+    "lat": 33.240165,
+    "lng": 130.31042,
+    "has_exact_location": true
+  },
+  {
+    "name": "Bonheur",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀北部",
+    "lat": 33.276745,
+    "lng": 130.299236,
+    "has_exact_location": true
+  },
+  {
+    "name": "MIZ イオンモール佐賀大和店",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "大和",
+    "lat": 33.304188,
+    "lng": 130.280646,
+    "has_exact_location": true
+  },
+  {
+    "name": "MIZ 本店",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀南部",
+    "lat": 33.25082,
+    "lng": 130.304596,
+    "has_exact_location": true
+  },
+  {
+    "name": "MIZ モラージュ佐賀店",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀東部",
+    "lat": 33.252368,
+    "lng": 130.31817,
+    "has_exact_location": true
+  },
+  {
+    "name": "MIZ ゆめタウン佐賀店",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀東部",
+    "lat": 33.275617,
+    "lng": 130.307616,
+    "has_exact_location": true
+  },
+  {
+    "name": "Make&Space",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "中心市街地",
+    "lat": 33.265131,
+    "lng": 130.297914,
+    "has_exact_location": true
+  },
+  {
+    "name": "Medical salon KELLY",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀北部",
+    "lat": 33.265288,
+    "lng": 130.293807,
+    "has_exact_location": true
+  },
+  {
+    "name": "ユアシセイドウつばきや",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀北部",
+    "lat": 33.268539,
+    "lng": 130.275776,
+    "has_exact_location": true
+  },
+  {
+    "name": "Latte ヘアカラー専門店",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "中心市街地",
+    "lat": 33.261162,
+    "lng": 130.293565,
+    "has_exact_location": true
+  },
+  {
+    "name": "Lanak hair",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀北部",
+    "lat": 33.287691,
+    "lng": 130.273726,
+    "has_exact_location": true
+  },
+  {
+    "name": "Relax Time 兵庫北本店",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀東部",
+    "lat": 33.270864,
+    "lng": 130.308304,
+    "has_exact_location": true
+  },
+  {
+    "name": "リングヴィア",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀東部",
+    "lat": 33.256769,
+    "lng": 130.29879,
+    "has_exact_location": true
+  },
+  {
+    "name": "Le・courage",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀北部",
+    "lat": 33.279582,
+    "lng": 130.283704,
+    "has_exact_location": true
+  },
+  {
+    "name": "REGALO SPA 佐賀店",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "佐賀西部",
+    "lat": 33.261916,
+    "lng": 130.276563,
+    "has_exact_location": true
+  },
+  {
+    "name": "YS・くぼ 久保化粧品店",
+    "category": "理容・美容・エステ・ビューティー",
+    "area": "川副",
+    "lat": 33.253646,
+    "lng": 130.296684,
+    "has_exact_location": true
+  },
+  {
+    "name": "熊の川温泉 ちどりの湯",
+    "category": "宿泊・温泉",
+    "area": "富士",
+    "lat": 33.364039,
+    "lng": 130.240567,
+    "has_exact_location": true
+  },
+  {
+    "name": "源泉掛け流し温泉 佐賀の湯処",
+    "category": "宿泊・温泉",
+    "area": "佐賀北部",
+    "lat": 33.313869,
+    "lng": 130.275984,
+    "has_exact_location": true
+  },
+  {
+    "name": "KOMOREBI",
+    "category": "宿泊・温泉",
+    "area": "佐賀西部",
+    "lat": 33.2606,
+    "lng": 130.281819,
+    "has_exact_location": true
+  },
+  {
+    "name": "Cottage Ureshino",
+    "category": "宿泊・温泉",
+    "area": "佐賀北部",
+    "lat": 33.255996,
+    "lng": 130.279018,
+    "has_exact_location": true
+  },
+  {
+    "name": "四季彩ホテル千代田館",
+    "category": "宿泊・温泉",
+    "area": "富士",
+    "lat": 33.271756,
+    "lng": 130.301073,
+    "has_exact_location": true
+  },
+  {
+    "name": "鶴の恩返し よみがえりの宿 鶴霊泉",
+    "category": "宿泊・温泉",
+    "area": "富士",
+    "lat": 33.371992,
+    "lng": 130.208007,
+    "has_exact_location": true
+  },
+  {
+    "name": "東京家旅館",
+    "category": "宿泊・温泉",
+    "area": "富士",
+    "lat": 33.372114,
+    "lng": 130.206351,
+    "has_exact_location": true
+  },
+  {
+    "name": "古湯温泉 ONCRI",
+    "category": "宿泊・温泉",
+    "area": "佐賀北部",
+    "lat": 33.368712,
+    "lng": 130.203915,
+    "has_exact_location": true
+  },
+  {
+    "name": "ホテルマリターレ創世 宿泊",
+    "category": "宿泊・温泉",
+    "area": "富士",
+    "lat": 33.265948,
+    "lng": 130.293924,
+    "has_exact_location": true
+  },
+  {
+    "name": "民宿 幸屋",
+    "category": "宿泊・温泉",
+    "area": "富士",
+    "lat": 33.372163,
+    "lng": 130.206661,
+    "has_exact_location": true
+  },
+  {
+    "name": "旅館 千曲荘",
+    "category": "宿泊・温泉",
+    "area": "富士",
+    "lat": 33.372432,
+    "lng": 130.207835,
+    "has_exact_location": true
+  },
+  {
+    "name": "旅館 大和屋",
+    "category": "宿泊・温泉",
+    "area": "佐賀北部",
+    "lat": 33.372229,
+    "lng": 130.207603,
+    "has_exact_location": true
+  },
+  {
+    "name": "織田タクシー（個人タクシー）",
+    "category": "タクシー・旅行・観光",
+    "area": "佐賀北部",
+    "lat": 33.282321,
+    "lng": 130.293918,
+    "has_exact_location": true
+  },
+  {
+    "name": "キャリアタクシー",
+    "category": "タクシー・旅行・観光",
+    "area": "佐賀西部",
+    "lat": 33.276765,
+    "lng": 130.273942,
+    "has_exact_location": true
+  },
+  {
+    "name": "久保田タクシー",
+    "category": "タクシー・旅行・観光",
+    "area": "佐賀南部",
+    "lat": 33.246496,
+    "lng": 130.248175,
+    "has_exact_location": true
+  },
+  {
+    "name": "佐賀タクシー",
+    "category": "タクシー・旅行・観光",
+    "area": "佐賀東部",
+    "lat": 33.238773,
+    "lng": 130.308423,
+    "has_exact_location": true
+  },
+  {
+    "name": "中央タクシー",
+    "category": "タクシー・旅行・観光",
+    "area": "佐賀東部",
+    "lat": 33.264795,
+    "lng": 130.310847,
+    "has_exact_location": true
+  },
+  {
+    "name": "西日本旅行 モラージュ佐賀支店",
+    "category": "タクシー・旅行・観光",
+    "area": "佐賀北部",
+    "lat": 33.252499,
+    "lng": 130.319787,
+    "has_exact_location": true
+  },
+  {
+    "name": "光タクシー（個人タクシー）",
+    "category": "タクシー・旅行・観光",
+    "area": "佐賀北部",
+    "lat": 33.282321,
+    "lng": 130.293918,
+    "has_exact_location": true
+  },
+  {
+    "name": "藤井タクシー（個人タクシー）",
+    "category": "タクシー・旅行・観光",
+    "area": "中心市街地",
+    "lat": 33.261774,
+    "lng": 130.300079,
+    "has_exact_location": true
+  },
+  {
+    "name": "カラオケ セントラルパーク",
+    "category": "カラオケ・ボウリング",
+    "area": "佐賀北部",
+    "lat": 33.252946,
+    "lng": 130.303398,
+    "has_exact_location": true
+  },
+  {
+    "name": "カラオケナイスデイ",
+    "category": "カラオケ・ボウリング",
+    "area": "佐賀南部",
+    "lat": 33.272977,
+    "lng": 130.299873,
+    "has_exact_location": true
+  },
+  {
+    "name": "A コープ城南店",
+    "category": "百貨店 コンビニ・スーパー",
+    "area": "富士",
+    "lat": 33.23991,
+    "lng": 130.301682,
+    "has_exact_location": true
+  },
+  {
+    "name": "A コープなんざん店",
+    "category": "百貨店 コンビニ・スーパー",
+    "area": "富士",
+    "lat": 33.371266,
+    "lng": 130.206852,
+    "has_exact_location": true
+  },
+  {
+    "name": "A コープほくざん店",
+    "category": "百貨店 コンビニ・スーパー",
+    "area": "川副",
+    "lat": 33.4321,
+    "lng": 130.202565,
+    "has_exact_location": true
+  },
+  {
+    "name": "川副ショッピングセンター ラポール",
+    "category": "百貨店 コンビニ・スーパー",
+    "area": "中心市街地",
+    "lat": 33.192878,
+    "lng": 130.31556,
+    "has_exact_location": true
+  },
+  {
+    "name": "佐賀玉屋",
+    "category": "百貨店 コンビニ・スーパー",
+    "area": "中心市街地",
+    "lat": 33.25302,
+    "lng": 130.299329,
+    "has_exact_location": true
+  },
+  {
+    "name": "さが風土館季楽 直販本店",
+    "category": "百貨店 コンビニ・スーパー",
+    "area": "中心市街地",
+    "lat": 33.263776,
+    "lng": 130.298173,
+    "has_exact_location": true
+  },
+  {
+    "name": "JAF A コープ街かど畑",
+    "category": "百貨店 コンビニ・スーパー",
+    "area": "川副",
+    "lat": 33.263708,
+    "lng": 130.298501,
+    "has_exact_location": true
+  },
+  {
+    "name": "スーパーモリナガ 空港通り店",
+    "category": "百貨店 コンビニ・スーパー",
+    "area": "佐賀北部",
+    "lat": 33.213497,
+    "lng": 130.306755,
+    "has_exact_location": true
+  },
+  {
+    "name": "スーパーモリナガ 高木瀬店",
+    "category": "百貨店 コンビニ・スーパー",
+    "area": "佐賀南部",
+    "lat": 33.277863,
+    "lng": 130.299531,
+    "has_exact_location": true
+  },
+  {
+    "name": "スーパーモリナガ 本庄店",
+    "category": "百貨店 コンビニ・スーパー",
+    "area": "佐賀南部",
+    "lat": 33.244357,
+    "lng": 130.284073,
+    "has_exact_location": true
+  },
+  {
+    "name": "スーパーモリナガ 南佐賀店",
+    "category": "百貨店 コンビニ・スーパー",
+    "area": "佐賀北部",
+    "lat": 33.238663,
+    "lng": 130.316703,
+    "has_exact_location": true
+  },
+  {
+    "name": "セブンイレブン佐賀開成６丁目店",
+    "category": "百貨店 コンビニ・スーパー",
+    "area": "佐賀東部",
+    "lat": 33.271928,
+    "lng": 130.275082,
+    "has_exact_location": true
+  },
+  {
+    "name": "セブンイレブン佐賀東佐賀店",
+    "category": "百貨店 コンビニ・スーパー",
+    "area": "佐賀東部",
+    "lat": 33.253203,
+    "lng": 130.312387,
+    "has_exact_location": true
+  },
+  {
+    "name": "セブンイレブン佐賀兵庫南店",
+    "category": "百貨店 コンビニ・スーパー",
+    "area": "佐賀南部",
+    "lat": 33.263507,
+    "lng": 130.319192,
+    "has_exact_location": true
+  },
+  {
+    "name": "セブンイレブン佐賀本庄町店",
+    "category": "百貨店 コンビニ・スーパー",
+    "area": "佐賀南部",
+    "lat": 33.242439,
+    "lng": 130.289617,
+    "has_exact_location": true
+  },
+  {
+    "name": "セブンイレブン佐賀南佐賀店",
+    "category": "百貨店 コンビニ・スーパー",
+    "area": "佐賀東部",
+    "lat": 33.240148,
+    "lng": 130.316788,
+    "has_exact_location": true
+  },
+  {
+    "name": "フードウェイ佐賀モラージュ店",
+    "category": "百貨店 コンビニ・スーパー",
+    "area": "佐賀北部",
+    "lat": 33.252817,
+    "lng": 130.319612,
+    "has_exact_location": true
+  },
+  {
+    "name": "ローソン S ミズ SAGA アリーナ店",
+    "category": "百貨店 コンビニ・スーパー",
+    "area": "佐賀南部",
+    "lat": 33.276401,
+    "lng": 130.292566,
+    "has_exact_location": true
+  },
+  {
+    "name": "ローソン S ミズ本店",
+    "category": "百貨店 コンビニ・スーパー",
+    "area": "佐賀南部",
+    "lat": 33.250793,
+    "lng": 130.304369,
+    "has_exact_location": true
+  },
+  {
+    "name": "ローソンミズ木原店",
+    "category": "百貨店 コンビニ・スーパー",
+    "area": "諸富",
+    "lat": 33.243375,
+    "lng": 130.31558,
+    "has_exact_location": true
+  },
+  {
+    "name": "佐賀玉屋 ギフトセンター",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.252926,
+    "lng": 130.299631,
+    "has_exact_location": true
+  },
+  {
+    "name": "佐賀玉屋 玉屋外商",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.252987,
+    "lng": 130.299384,
+    "has_exact_location": true
+  },
+  {
+    "name": "佐賀玉屋 玉屋受渡",
+    "category": "飲食店",
+    "area": "中心市街地",
+    "lat": 33.286883,
+    "lng": 130.345514,
+    "has_exact_location": true
+  },
+  {
+    "name": "あけぼの菓子舗",
+    "category": "菓子・贈答",
+    "area": "中心市街地",
+    "lat": 33.254496,
+    "lng": 130.302308,
+    "has_exact_location": true
+  },
+  {
+    "name": "atelier CORO",
+    "category": "菓子・贈答",
+    "area": "佐賀北部",
+    "lat": 33.259926,
+    "lng": 130.292708,
+    "has_exact_location": true
+  },
+  {
+    "name": "大原老舗佐賀えきマチ 1 丁目佐賀駅店",
+    "category": "菓子・贈答",
+    "area": "中心市街地",
+    "lat": 33.263244,
+    "lng": 130.295716,
+    "has_exact_location": true
+  },
+  {
+    "name": "大原老舗佐賀本店",
+    "category": "菓子・贈答",
+    "area": "中心市街地",
+    "lat": 33.262352,
+    "lng": 130.29358,
+    "has_exact_location": true
+  },
+  {
+    "name": "お菓子の古場 佐賀天祐店",
+    "category": "菓子・贈答",
+    "area": "佐賀西部",
+    "lat": 33.256425,
+    "lng": 130.278911,
+    "has_exact_location": true
+  },
+  {
+    "name": "御菓子司 鶴屋佐賀駅店",
+    "category": "菓子・贈答",
+    "area": "中心市街地",
+    "lat": 33.264128,
+    "lng": 130.297799,
+    "has_exact_location": true
+  },
+  {
+    "name": "御菓子司 鶴屋本店",
+    "category": "菓子・贈答",
+    "area": "佐賀西部",
+    "lat": 33.256272,
+    "lng": 130.294536,
+    "has_exact_location": true
+  },
+  {
+    "name": "菓心まるいち 兵庫店",
+    "category": "菓子・贈答",
+    "area": "佐賀東部",
+    "lat": 33.264249,
+    "lng": 130.322743,
+    "has_exact_location": true
+  },
+  {
+    "name": "菓心まるいち 本店",
+    "category": "菓子・贈答",
+    "area": "佐賀北部",
+    "lat": 33.289234,
+    "lng": 130.270464,
+    "has_exact_location": true
+  },
+  {
+    "name": "菓心まるいち 諸富店",
+    "category": "菓子・贈答",
+    "area": "諸富",
+    "lat": 33.222719,
+    "lng": 130.35821,
+    "has_exact_location": true
+  },
+  {
+    "name": "菓舗やつだ屋",
+    "category": "菓子・贈答",
+    "area": "富士",
+    "lat": 33.371829,
+    "lng": 130.206609,
+    "has_exact_location": true
+  },
+  {
+    "name": "KUREHA PRESENTS SAGA",
+    "category": "菓子・贈答",
+    "area": "佐賀北部",
+    "lat": 33.305084,
+    "lng": 130.268608,
+    "has_exact_location": true
+  },
+  {
+    "name": "STORY",
+    "category": "菓子・贈答",
+    "area": "中心市街地",
+    "lat": 33.292379,
+    "lng": 130.336405,
+    "has_exact_location": true
+  },
+  {
+    "name": "佐賀工房えきマチ店",
+    "category": "菓子・贈答",
+    "area": "川副",
+    "lat": 33.26411,
+    "lng": 130.297957,
+    "has_exact_location": true
+  },
+  {
+    "name": "佐賀工房空港店",
+    "category": "菓子・贈答",
+    "area": "中心市街地",
+    "lat": 33.153233,
+    "lng": 130.303335,
+    "has_exact_location": true
+  },
+  {
+    "name": "佐賀工房バルーンミュージアム店",
+    "category": "菓子・贈答",
+    "area": "中心市街地",
+    "lat": 33.25224,
+    "lng": 130.300517,
+    "has_exact_location": true
+  },
+  {
+    "name": "SAGA MADO",
+    "category": "菓子・贈答",
+    "area": "佐賀西部",
+    "lat": 33.264007,
+    "lng": 130.298388,
+    "has_exact_location": true
+  },
+  {
+    "name": "サラダ館新栄店",
+    "category": "菓子・贈答",
+    "area": "諸富",
+    "lat": 33.256412,
+    "lng": 130.275563,
+    "has_exact_location": true
+  },
+  {
+    "name": "サラダ館諸富店（めぐみ）",
+    "category": "菓子・贈答",
+    "area": "大和",
+    "lat": 33.228257,
+    "lng": 130.340711,
+    "has_exact_location": true
+  },
+  {
+    "name": "サラダ館大和中央店",
+    "category": "菓子・贈答",
+    "area": "佐賀北部",
+    "lat": 33.307635,
+    "lng": 130.252943,
+    "has_exact_location": true
+  },
+  {
+    "name": "サラダ館若楠店",
+    "category": "菓子・贈答",
+    "area": "中心市街地",
+    "lat": 33.280264,
+    "lng": 130.28398,
+    "has_exact_location": true
+  },
+  {
+    "name": "サンのり",
+    "category": "菓子・贈答",
+    "area": "佐賀南部",
+    "lat": 33.238143,
+    "lng": 130.277452,
+    "has_exact_location": true
+  },
+  {
+    "name": "JONAI NORTH",
+    "category": "菓子・贈答",
+    "area": "佐賀北部",
+    "lat": 33.247014,
+    "lng": 130.300625,
+    "has_exact_location": true
+  },
+  {
+    "name": "展覧会の絵",
+    "category": "菓子・贈答",
+    "area": "佐賀東部",
+    "lat": 33.280729,
+    "lng": 130.268781,
+    "has_exact_location": true
+  },
+  {
+    "name": "ドーナツショップ Melty 屋",
+    "category": "菓子・贈答",
+    "area": "川副",
+    "lat": 33.273595,
+    "lng": 130.305373,
+    "has_exact_location": true
+  },
+  {
+    "name": "のり道楽 三福海苔",
+    "category": "菓子・贈答",
+    "area": "佐賀東部",
+    "lat": 33.180484,
+    "lng": 130.320032,
+    "has_exact_location": true
+  },
+  {
+    "name": "パティスリーシュシュ夢咲本店",
+    "category": "菓子・贈答",
+    "area": "佐賀南部",
+    "lat": 33.266891,
+    "lng": 130.313884,
+    "has_exact_location": true
+  },
+  {
+    "name": "Patisserie みずいろ",
+    "category": "菓子・贈答",
+    "area": "大和",
+    "lat": 33.241053,
+    "lng": 130.320043,
+    "has_exact_location": true
+  },
+  {
+    "name": "本家ときわ家",
+    "category": "菓子・贈答",
+    "area": "佐賀北部",
+    "lat": 33.326798,
+    "lng": 130.267819,
+    "has_exact_location": true
+  },
+  {
+    "name": "丸芳露本舗 北島 アルタ開成店",
+    "category": "菓子・贈答",
+    "area": "佐賀南部",
+    "lat": 33.272005,
+    "lng": 130.276992,
+    "has_exact_location": true
+  },
+  {
+    "name": "丸芳露本舗 北島 木原店",
+    "category": "菓子・贈答",
+    "area": "中心市街地",
+    "lat": 33.249177,
+    "lng": 130.307677,
+    "has_exact_location": true
+  },
+  {
+    "name": "丸芳露本舗 北島 佐賀東店",
+    "category": "菓子・贈答",
+    "area": "中心市街地",
+    "lat": 33.258146,
+    "lng": 130.302421,
+    "has_exact_location": true
+  },
+  {
+    "name": "丸芳露本舗 北島 JR 佐賀駅店",
+    "category": "菓子・贈答",
+    "area": "中心市街地",
+    "lat": 33.264183,
+    "lng": 130.297871,
+    "has_exact_location": true
+  },
+  {
+    "name": "丸芳露本舗 北島 白山本店",
+    "category": "菓子・贈答",
+    "area": "中心市街地",
+    "lat": 33.25491,
+    "lng": 130.299902,
+    "has_exact_location": true
+  },
+  {
+    "name": "村岡総本舗佐賀駅店",
+    "category": "菓子・贈答",
+    "area": "中心市街地",
+    "lat": 33.264172,
+    "lng": 130.297786,
+    "has_exact_location": true
+  },
+  {
+    "name": "村岡総本舗唐人町店",
+    "category": "菓子・贈答",
+    "area": "大和",
+    "lat": 33.25841,
+    "lng": 130.298922,
+    "has_exact_location": true
+  },
+  {
+    "name": "村岡屋 イオンモール佐賀大和店",
+    "category": "菓子・贈答",
+    "area": "佐賀北部",
+    "lat": 33.303931,
+    "lng": 130.280844,
+    "has_exact_location": true
+  },
+  {
+    "name": "村岡屋 卸本町店",
+    "category": "菓子・贈答",
+    "area": "佐賀南部",
+    "lat": 33.273094,
+    "lng": 130.278017,
+    "has_exact_location": true
+  },
+  {
+    "name": "村岡屋 高伝寺前店",
+    "category": "菓子・贈答",
+    "area": "中心市街地",
+    "lat": 33.23965,
+    "lng": 130.283385,
+    "has_exact_location": true
+  },
+  {
+    "name": "村岡屋 佐賀駅店",
+    "category": "菓子・贈答",
+    "area": "中心市街地",
+    "lat": 33.264177,
+    "lng": 130.297813,
+    "has_exact_location": true
+  },
+  {
+    "name": "村岡屋 本店",
+    "category": "菓子・贈答",
+    "area": "佐賀南部",
+    "lat": 33.260691,
+    "lng": 130.298427,
+    "has_exact_location": true
+  },
+  {
+    "name": "村岡屋 水ヶ江店",
+    "category": "菓子・贈答",
+    "area": "大和",
+    "lat": 33.247312,
+    "lng": 130.307161,
+    "has_exact_location": true
+  },
+  {
+    "name": "村岡屋 大和店",
+    "category": "菓子・贈答",
+    "area": "佐賀東部",
+    "lat": 33.305898,
+    "lng": 130.278835,
+    "has_exact_location": true
+  },
+  {
+    "name": "村岡屋 ゆめタウン佐賀店",
+    "category": "菓子・贈答",
+    "area": "中心市街地",
+    "lat": 33.27564,
+    "lng": 130.307951,
+    "has_exact_location": true
+  },
+  {
+    "name": "八頭司伝吉本舗 佐賀駅店",
+    "category": "菓子・贈答",
+    "area": "中心市街地",
+    "lat": 33.264098,
+    "lng": 130.297868,
+    "has_exact_location": true
+  },
+  {
+    "name": "八頭司伝吉本舗 唐人店",
+    "category": "菓子・贈答",
+    "area": "佐賀北部",
+    "lat": 33.259088,
+    "lng": 130.298839,
+    "has_exact_location": true
+  },
+  {
+    "name": "洋菓子のヒデシマ",
+    "category": "菓子・贈答",
+    "area": "川副",
+    "lat": 33.293167,
+    "lng": 130.291069,
+    "has_exact_location": true
+  },
+  {
+    "name": "luce",
+    "category": "菓子・贈答",
+    "area": "中心市街地",
+    "lat": 33.259768,
+    "lng": 130.095101,
+    "has_exact_location": true
+  },
+  {
+    "name": "Art Studio Chalk Mint",
+    "category": "雑貨・アート・文房具",
+    "area": "佐賀東部",
+    "lat": 33.256063,
+    "lng": 130.299519,
+    "has_exact_location": true
+  },
+  {
+    "name": "石丸文行堂 ゆめタウン佐賀店",
+    "category": "雑貨・アート・文房具",
+    "area": "諸富",
+    "lat": 33.275559,
+    "lng": 130.307905,
+    "has_exact_location": true
+  },
+  {
+    "name": "木のおもちゃ 飛鳥工房",
+    "category": "雑貨・アート・文房具",
+    "area": "中心市街地",
+    "lat": 33.22186,
+    "lng": 130.367355,
+    "has_exact_location": true
+  },
+  {
+    "name": "木村文機 駅前店",
+    "category": "雑貨・アート・文房具",
+    "area": "中心市街地",
+    "lat": 33.266778,
+    "lng": 130.299122,
+    "has_exact_location": true
+  },
+  {
+    "name": "木村文機 北川副店",
+    "category": "雑貨・アート・文房具",
+    "area": "佐賀南部",
+    "lat": 33.243453,
+    "lng": 130.321973,
+    "has_exact_location": true
+  },
+  {
+    "name": "cotoiro",
+    "category": "雑貨・アート・文房具",
+    "area": "中心市街地",
+    "lat": 33.235406,
+    "lng": 130.333792,
+    "has_exact_location": true
+  },
+  {
+    "name": "GENIUSLAB",
+    "category": "雑貨・アート・文房具",
+    "area": "佐賀南部",
+    "lat": 33.253536,
+    "lng": 130.303817,
+    "has_exact_location": true
+  },
+  {
+    "name": "JONAI SQUARE SHOP",
+    "category": "雑貨・アート・文房具",
+    "area": "佐賀南部",
+    "lat": 33.246823,
+    "lng": 130.30062,
+    "has_exact_location": true
+  },
+  {
+    "name": "necotto",
+    "category": "雑貨・アート・文房具",
+    "area": "佐賀西部",
+    "lat": 33.23903,
+    "lng": 130.29687,
+    "has_exact_location": true
+  },
+  {
+    "name": "肥前びーどろ 副島硝子工業",
+    "category": "雑貨・アート・文房具",
+    "area": "佐賀東部",
+    "lat": 33.248152,
+    "lng": 130.286865,
+    "has_exact_location": true
+  },
+  {
+    "name": "ヒロノブイラスト",
+    "category": "雑貨・アート・文房具",
+    "area": "佐賀東部",
+    "lat": 33.252361,
+    "lng": 130.318766,
+    "has_exact_location": true
+  },
+  {
+    "name": "ファイテンショップゆめタウン佐賀店",
+    "category": "雑貨・アート・文房具",
+    "area": "佐賀北部",
+    "lat": 33.275638,
+    "lng": 130.30795,
+    "has_exact_location": true
+  },
+  {
+    "name": "文具のナカシマ 佐賀店",
+    "category": "雑貨・アート・文房具",
+    "area": "佐賀西部",
+    "lat": 33.277695,
+    "lng": 130.270408,
+    "has_exact_location": true
+  },
+  {
+    "name": "あらお花店 本店",
+    "category": "生花・園芸",
+    "area": "佐賀東部",
+    "lat": 33.25087,
+    "lng": 130.305493,
+    "has_exact_location": true
+  },
+  {
+    "name": "あらお花店モラージュ佐賀店",
+    "category": "生花・園芸",
+    "area": "佐賀南部",
+    "lat": 33.252084,
+    "lng": 130.318736,
+    "has_exact_location": true
+  },
+  {
+    "name": "第一園芸センター",
+    "category": "生花・園芸",
+    "area": "大和",
+    "lat": 33.240664,
+    "lng": 130.320307,
+    "has_exact_location": true
+  },
+  {
+    "name": "なりどみ生花店",
+    "category": "生花・園芸",
+    "area": "佐賀東部",
+    "lat": 33.309825,
+    "lng": 130.328571,
+    "has_exact_location": true
+  },
+  {
+    "name": "フラワーアクロス",
+    "category": "生花・園芸",
+    "area": "佐賀北部",
+    "lat": 33.253211,
+    "lng": 130.321614,
+    "has_exact_location": true
+  },
+  {
+    "name": "フラワーショップこばやし",
+    "category": "生花・園芸",
+    "area": "中心市街地",
+    "lat": 33.284701,
+    "lng": 130.26305,
+    "has_exact_location": true
+  },
+  {
+    "name": "フラワーショップ・サガ",
+    "category": "生花・園芸",
+    "area": "佐賀北部",
+    "lat": 33.252684,
+    "lng": 130.303913,
+    "has_exact_location": true
+  },
+  {
+    "name": "フラワーショップ はなどけい アルタ開成店",
+    "category": "生花・園芸",
+    "area": "佐賀東部",
+    "lat": 33.271794,
+    "lng": 130.277009,
+    "has_exact_location": true
+  },
+  {
+    "name": "フラワーショップ はなどけい 兵庫南店",
+    "category": "生花・園芸",
+    "area": "中心市街地",
+    "lat": 33.264658,
+    "lng": 130.312025,
+    "has_exact_location": true
+  },
+  {
+    "name": "フラワー花友",
+    "category": "生花・園芸",
+    "area": "佐賀北部",
+    "lat": 33.262257,
+    "lng": 130.311799,
+    "has_exact_location": true
+  },
+  {
+    "name": "フローリストかわさき",
+    "category": "生花・園芸",
+    "area": "佐賀南部",
+    "lat": 33.264643,
+    "lng": 130.276051,
+    "has_exact_location": true
+  },
+  {
+    "name": "犬居猫座衛門",
+    "category": "その他",
+    "area": "中心市街地",
+    "lat": 33.240695,
+    "lng": 130.319821,
+    "has_exact_location": true
+  },
+  {
+    "name": "今右衛門焼 有銘堂",
+    "category": "その他",
+    "area": "大和",
+    "lat": 33.251416,
+    "lng": 130.299489,
+    "has_exact_location": true
+  },
+  {
+    "name": "江口動物病院",
+    "category": "その他",
+    "area": "佐賀北部",
+    "lat": 33.314039,
+    "lng": 130.279353,
+    "has_exact_location": true
+  },
+  {
+    "name": "OFFICIAL GOODS SHOP",
+    "category": "その他",
+    "area": "佐賀東部",
+    "lat": 33.347103,
+    "lng": 130.144373,
+    "has_exact_location": true
+  },
+  {
+    "name": "おもちゃのあおき モラージュ佐賀店",
+    "category": "その他",
+    "area": "佐賀西部",
+    "lat": 33.251201,
+    "lng": 130.319032,
+    "has_exact_location": true
+  },
+  {
+    "name": "株式会社 匠和美建",
+    "category": "その他",
+    "area": "中心市街地",
+    "lat": 33.248442,
+    "lng": 130.275072,
+    "has_exact_location": true
+  },
+  {
+    "name": "キッズスペース（2 階）",
+    "category": "その他",
+    "area": "佐賀東部",
+    "lat": 33.255563,
+    "lng": 130.177491,
+    "has_exact_location": true
+  },
+  {
+    "name": "ゲーマーズコミュニティショップ",
+    "category": "その他",
+    "area": "佐賀西部",
+    "lat": 33.252557,
+    "lng": 130.312611,
+    "has_exact_location": true
+  },
+  {
+    "name": "BRAVE HEARTS",
+    "category": "その他",
+    "area": "佐賀南部",
+    "lat": 33.252557,
+    "lng": 130.312611,
+    "has_exact_location": true
+  },
+  {
+    "name": "佐賀スタンプ（西田代店）",
+    "category": "その他",
+    "area": "大和",
+    "lat": 33.249646,
+    "lng": 130.289126,
+    "has_exact_location": true
+  },
+  {
+    "name": "佐賀スタンプ（南部店）",
+    "category": "その他",
+    "area": "中心市街地",
+    "lat": 33.23983,
+    "lng": 130.279218,
+    "has_exact_location": true
+  },
+  {
+    "name": "佐賀墓じまい専門店",
+    "category": "その他",
+    "area": "佐賀北部",
+    "lat": 33.318426,
+    "lng": 130.283361,
+    "has_exact_location": true
+  },
+  {
+    "name": "副島金物",
+    "category": "その他",
+    "area": "佐賀西部",
+    "lat": 33.266782,
+    "lng": 130.297794,
+    "has_exact_location": true
+  },
+  {
+    "name": "タルト屋そらり鍋島店",
+    "category": "その他",
+    "area": "佐賀南部",
+    "lat": 33.280968,
+    "lng": 130.268716,
+    "has_exact_location": true
+  },
+  {
+    "name": "永石スポーツ",
+    "category": "その他",
+    "area": "佐賀西部",
+    "lat": 33.257038,
+    "lng": 130.291082,
+    "has_exact_location": true
+  },
+  {
+    "name": "鍋島緞通吉島家",
+    "category": "その他",
+    "area": "大和",
+    "lat": 33.246497,
+    "lng": 130.295672,
+    "has_exact_location": true
+  },
+  {
+    "name": "ナレル多布施店",
+    "category": "その他",
+    "area": "佐賀西部",
+    "lat": 33.257751,
+    "lng": 130.292771,
+    "has_exact_location": true
+  },
+  {
+    "name": "人形館ふじや 佐賀大和店",
+    "category": "その他",
+    "area": "中心市街地",
+    "lat": 33.309373,
+    "lng": 130.270359,
+    "has_exact_location": true
+  },
+  {
+    "name": "人形の新栄",
+    "category": "その他",
+    "area": "佐賀南部",
+    "lat": 33.25643,
+    "lng": 130.27557,
+    "has_exact_location": true
+  },
+  {
+    "name": "猫カフェコロン",
+    "category": "その他",
+    "area": "佐賀東部",
+    "lat": 33.253583,
+    "lng": 130.302708,
+    "has_exact_location": true
+  },
+  {
+    "name": "野本動物病院",
+    "category": "その他",
+    "area": "佐賀東部",
+    "lat": 33.240823,
+    "lng": 130.316843,
+    "has_exact_location": true
+  },
+  {
+    "name": "ハウスオブローゼ モラージュ佐賀店",
+    "category": "その他",
+    "area": "佐賀東部",
+    "lat": 33.252437,
+    "lng": 130.318593,
+    "has_exact_location": true
+  },
+  {
+    "name": "真島武道具",
+    "category": "その他",
+    "area": "佐賀東部",
+    "lat": 33.253628,
+    "lng": 130.308683,
+    "has_exact_location": true
+  },
+  {
+    "name": "ミズマチ",
+    "category": "その他",
+    "area": "中心市街地",
+    "lat": 33.274901,
+    "lng": 130.32904,
+    "has_exact_location": true
+  },
+  {
+    "name": "モトシマ 本社工場",
+    "category": "その他",
+    "area": "佐賀南部",
+    "lat": 33.26328,
+    "lng": 130.324883,
+    "has_exact_location": true
+  },
+  {
+    "name": "有限会社システムラインズ",
+    "category": "その他",
+    "area": "佐賀南部",
+    "lat": 33.260978,
+    "lng": 130.30901,
+    "has_exact_location": true
+  }
+]

@@ -1,0 +1,35 @@
+{
+    "name": "gabai-sakaeru-pay-4-map",
+    "version": "1.0.0",
+    "description": "（非公式）がばいサカえーるPay第4弾マップ - 佐賀市の対象店舗を地図で検索",
+    "main": "index.js",
+    "directories": {
+        "doc": "docs"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "cd docs && python3 -m http.server 8000",
+        "serve": "npx http-server docs -p 8000 -c-1",
+        "dev": "npm run serve",
+        "deploy": "npx wrangler pages deploy docs"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/midnight480/gabai-sakaeru-pay-4-map.git"
+    },
+    "keywords": [
+        "saga",
+        "gabai",
+        "sakaeru",
+        "pay",
+        "map",
+        "地域振興券"
+    ],
+    "author": "midnight480",
+    "license": "ISC",
+    "type": "commonjs",
+    "bugs": {
+        "url": "https://github.com/midnight480/gabai-sakaeru-pay-4-map/issues"
+    },
+    "homepage": "https://gabai-sakaeru-pay-4-map.midnight480.com"
+}

@@ -1,0 +1,824 @@
+/* ===================================================
+   がばいサカえーるPay 第4弾マップ - スタイルシート
+   テーマ: 緑系グラデーション + プレミアムデザイン
+   =================================================== */
+
+/* カスタムプロパティ（デザイントークン） */
+:root {
+    --primary: #2E7D32;
+    --primary-dark: #1B5E20;
+    --primary-light: #43A047;
+    --primary-gradient: linear-gradient(135deg, #1B5E20 0%, #2E7D32 50%, #43A047 100%);
+    --accent: #FF8F00;
+    --accent-light: #FFB300;
+    --bg-main: #f0f4f0;
+    --bg-card: #ffffff;
+    --text-primary: #1a1a2e;
+    --text-secondary: #555;
+    --text-muted: #888;
+    --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.08);
+    --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.12);
+    --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.16);
+    --radius-sm: 8px;
+    --radius-md: 12px;
+    --radius-lg: 16px;
+    --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    --font-main: 'Noto Sans JP', 'Helvetica Neue', Arial, 'Hiragino Kaku Gothic ProN', sans-serif;
+}
+
+/* リセット＆ベース */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body,
+html {
+    height: 100%;
+    width: 100%;
+    font-family: var(--font-main);
+    background: var(--bg-main);
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+}
+
+#app {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    height: 100dvh;
+}
+
+/* ===== ヘッダー ===== */
+header {
+    background: var(--primary-gradient);
+    color: white;
+    padding: 12px 20px;
+    box-shadow: var(--shadow-lg);
+    z-index: 1000;
+    position: relative;
+}
+
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 1.15rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.header-badge {
+    display: inline-block;
+    background: var(--accent);
+    color: white;
+    font-size: 0.65rem;
+    font-weight: 700;
+    padding: 2px 8px;
+    border-radius: 20px;
+    letter-spacing: 0.05em;
+    animation: badge-pulse 2s ease-in-out infinite;
+}
+
+@keyframes badge-pulse {
+
+    0%,
+    100% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.05);
+    }
+}
+
+/* ハンバーガーメニュー */
+.menu-toggle {
+    display: none;
+    flex-direction: column;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    gap: 5px;
+    z-index: 10;
+}
+
+.menu-toggle span {
+    width: 24px;
+    height: 2.5px;
+    background-color: white;
+    border-radius: 2px;
+    transition: var(--transition);
+}
+
+.menu-toggle.active span:nth-child(1) {
+    transform: rotate(45deg) translate(5px, 5px);
+}
+
+.menu-toggle.active span:nth-child(2) {
+    opacity: 0;
+}
+
+.menu-toggle.active span:nth-child(3) {
+    transform: rotate(-45deg) translate(6px, -6px);
+}
+
+/* ナビゲーション */
+.header-nav {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+
+.header-nav .nav-link {
+    color: rgba(255, 255, 255, 0.9);
+    text-decoration: none;
+    padding: 5px 12px;
+    border-radius: 20px;
+    transition: var(--transition);
+    font-size: 0.82em;
+    font-weight: 500;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(4px);
+}
+
+.header-nav .nav-link:hover {
+    background: rgba(255, 255, 255, 0.25);
+    color: white;
+    transform: translateY(-1px);
+}
+
+/* タブ切替 */
+#view-tabs {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 10px;
+}
+
+.view-tab {
+    padding: 8px 20px;
+    background: rgba(255, 255, 255, 0.15);
+    color: rgba(255, 255, 255, 0.9);
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    border-radius: 25px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.85em;
+    transition: var(--transition);
+    font-family: var(--font-main);
+}
+
+.view-tab:hover {
+    background: rgba(255, 255, 255, 0.25);
+    transform: translateY(-1px);
+}
+
+.view-tab.active {
+    background: white;
+    color: var(--primary-dark);
+    border-color: white;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* フィルタ */
+#filters {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 8px;
+}
+
+#filters input,
+#filters select,
+#filters button {
+    padding: 8px 14px;
+    border-radius: 25px;
+    border: none;
+    font-size: 0.85em;
+    font-family: var(--font-main);
+    transition: var(--transition);
+    background: rgba(255, 255, 255, 0.95);
+    color: var(--text-primary);
+}
+
+#filters input:focus,
+#filters select:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.4);
+}
+
+#filters input[type="text"] {
+    flex: 1;
+    min-width: 180px;
+    max-width: 400px;
+}
+
+#filters select {
+    min-width: 140px;
+    cursor: pointer;
+    -webkit-appearance: none;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23555' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 12px center;
+    padding-right: 30px;
+}
+
+#filters button {
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    cursor: pointer;
+    font-weight: 600;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+}
+
+#filters button:hover {
+    background: rgba(255, 255, 255, 0.35);
+    transform: translateY(-1px);
+}
+
+/* 店舗数 */
+#shop-count {
+    font-size: 0.8em;
+    opacity: 0.85;
+    font-weight: 500;
+}
+
+/* ===== メインコンテンツ ===== */
+.view-content {
+    display: none;
+    flex-grow: 1;
+    width: 100%;
+    height: 100%;
+}
+
+.view-content.active {
+    display: block;
+}
+
+#map {
+    flex-grow: 1;
+    width: 100%;
+    height: 100%;
+}
+
+/* 地図のマーカークラスタのスタイル */
+.marker-cluster-small {
+    background-color: rgba(46, 125, 50, 0.6) !important;
+}
+
+.marker-cluster-small div {
+    background-color: rgba(46, 125, 50, 0.8) !important;
+    color: white !important;
+    font-weight: 700;
+}
+
+.marker-cluster-medium {
+    background-color: rgba(255, 143, 0, 0.6) !important;
+}
+
+.marker-cluster-medium div {
+    background-color: rgba(255, 143, 0, 0.8) !important;
+    color: white !important;
+    font-weight: 700;
+}
+
+.marker-cluster-large {
+    background-color: rgba(211, 47, 47, 0.6) !important;
+}
+
+.marker-cluster-large div {
+    background-color: rgba(211, 47, 47, 0.8) !important;
+    color: white !important;
+    font-weight: 700;
+}
+
+/* ===== リストビュー ===== */
+#list-view {
+    overflow-y: auto;
+    background: var(--bg-main);
+}
+
+#shop-list {
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 16px;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+/* ショップカード */
+.shop-card {
+    background: var(--bg-card);
+    border-radius: var(--radius-md);
+    padding: 18px;
+    box-shadow: var(--shadow-sm);
+    transition: var(--transition);
+    cursor: pointer;
+    border: 1px solid rgba(0, 0, 0, 0.04);
+    position: relative;
+    overflow: hidden;
+}
+
+.shop-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: var(--primary-gradient);
+    opacity: 0;
+    transition: var(--transition);
+}
+
+.shop-card:hover {
+    box-shadow: var(--shadow-md);
+    transform: translateY(-3px);
+}
+
+.shop-card:hover::before {
+    opacity: 1;
+}
+
+.shop-card .shop-name {
+    font-size: 1.1em;
+    font-weight: 700;
+    color: var(--primary-dark);
+    margin-bottom: 8px;
+}
+
+.shop-card .shop-category-badge {
+    display: inline-block;
+    font-size: 0.72em;
+    color: white;
+    background: var(--primary);
+    padding: 2px 10px;
+    border-radius: 20px;
+    margin-bottom: 8px;
+    font-weight: 500;
+}
+
+.shop-card .shop-area-badge {
+    display: inline-block;
+    font-size: 0.72em;
+    color: var(--accent);
+    background: rgba(255, 143, 0, 0.1);
+    border: 1px solid rgba(255, 143, 0, 0.3);
+    padding: 2px 10px;
+    border-radius: 20px;
+    margin-bottom: 8px;
+    margin-left: 4px;
+    font-weight: 500;
+}
+
+.shop-card .shop-links {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-top: 12px;
+}
+
+.shop-card .shop-link {
+    font-size: 0.8em;
+    padding: 6px 14px;
+    background: var(--primary);
+    color: white;
+    text-decoration: none;
+    border-radius: 20px;
+    transition: var(--transition);
+    font-weight: 500;
+}
+
+.shop-card .shop-link:hover {
+    background: var(--primary-dark);
+    transform: translateY(-1px);
+}
+
+/* ===== ポップアップ ===== */
+.shop-popup-content {
+    min-width: 220px;
+}
+
+.shop-popup-content .popup-name {
+    font-weight: 700;
+    font-size: 1.05em;
+    color: var(--primary-dark);
+    margin-bottom: 6px;
+}
+
+.shop-popup-content .popup-category {
+    font-size: 0.8em;
+    color: white;
+    background: var(--primary);
+    padding: 2px 8px;
+    border-radius: 12px;
+    display: inline-block;
+    margin-bottom: 4px;
+}
+
+.shop-popup-content .popup-area {
+    font-size: 0.8em;
+    color: var(--text-muted);
+    margin-bottom: 8px;
+}
+
+.shop-popup-content .popup-link {
+    display: inline-block;
+    margin-top: 4px;
+    color: var(--primary);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.85em;
+}
+
+.shop-popup-content .popup-link:hover {
+    text-decoration: underline;
+}
+
+.shop-popup .leaflet-popup-content-wrapper {
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-md);
+}
+
+/* ===== モーダル ===== */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 2000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(4px);
+    animation: modal-fade-in 0.2s ease-out;
+}
+
+@keyframes modal-fade-in {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+.modal-content {
+    background: var(--bg-card);
+    margin: 5% auto;
+    padding: 0;
+    border-radius: var(--radius-lg);
+    width: 90%;
+    max-width: 550px;
+    max-height: 80vh;
+    overflow-y: auto;
+    box-shadow: var(--shadow-lg);
+    animation: modal-slide-in 0.3s ease-out;
+}
+
+@keyframes modal-slide-in {
+    from {
+        transform: translateY(20px);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 24px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+    background: var(--primary-gradient);
+    color: white;
+    border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+}
+
+.modal-header h2 {
+    margin: 0;
+    font-size: 1.3em;
+    font-weight: 700;
+}
+
+.modal-close {
+    background: rgba(255, 255, 255, 0.2);
+    border: none;
+    color: white;
+    font-size: 22px;
+    cursor: pointer;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: var(--transition);
+}
+
+.modal-close:hover {
+    background: rgba(255, 255, 255, 0.35);
+    transform: rotate(90deg);
+}
+
+.modal-body {
+    padding: 24px;
+}
+
+.info-item {
+    margin-bottom: 16px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.info-item:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+}
+
+.info-item strong {
+    display: block;
+    margin-bottom: 4px;
+    color: var(--primary-dark);
+    font-size: 0.85em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.info-item p,
+.info-item span {
+    color: var(--text-secondary);
+    font-size: 0.95em;
+    line-height: 1.6;
+}
+
+.info-item .link-button {
+    display: inline-block;
+    background: #e8f5e9;
+    color: var(--primary-color);
+    padding: 12px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 10px;
+    transition: background 0.2s;
+}
+
+.info-item .link-button:hover {
+    background: #c8e6c9;
+}
+
+/* Locate Control (現在地取得ボタン) */
+.leaflet-control-locate {
+    background-color: #fff;
+    border: 2px solid rgba(0, 0, 0, 0.2) !important;
+    background-clip: padding-box;
+    border-radius: 4px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.65);
+}
+
+.leaflet-control-locate a {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    width: 30px !important;
+    height: 30px !important;
+    font-size: 18px;
+    text-decoration: none;
+    color: #333;
+    background-color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.leaflet-control-locate a:hover {
+    background-color: #f4f4f4;
+}
+
+.leaflet-control-locate a.requesting {
+    animation: locatePulse 1s infinite alternate;
+}
+
+@keyframes locatePulse {
+    from {
+        opacity: 0.5;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+/* 現在地表示用マーカー（パルス効果付き） */
+.user-location-marker {
+    background-color: #1976D2;
+    border: 3px solid white;
+    border-radius: 50%;
+    box-shadow: 0 0 0 rgba(25, 118, 210, 0.4);
+    animation: userLocationPulse 2s infinite;
+}
+
+@keyframes userLocationPulse {
+    0% {
+        box-shadow: 0 0 0 0 rgba(25, 118, 210, 0.4);
+    }
+
+    70% {
+        box-shadow: 0 0 0 15px rgba(25, 118, 210, 0);
+    }
+
+    100% {
+        box-shadow: 0 0 0 0 rgba(25, 118, 210, 0);
+    }
+}
+
+.link-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background: var(--primary);
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    text-align: center;
+    font-weight: 600;
+    transition: var(--transition);
+    font-size: 0.9em;
+}
+
+.link-button:hover {
+    background: var(--primary-dark);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-sm);
+}
+
+/* カテゴリアイコン色 */
+.category-icon {
+    display: inline-flex;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-right: 4px;
+}
+
+/* ===== レスポンシブ ===== */
+@media (max-width: 768px) {
+    header {
+        padding: 8px 12px;
+    }
+
+    header h1 {
+        font-size: 0.95rem;
+    }
+
+    .menu-toggle {
+        display: flex;
+    }
+
+    .header-nav {
+        display: none;
+        flex-direction: column;
+        gap: 6px;
+        width: 100%;
+        margin-top: 10px;
+        padding-top: 10px;
+        border-top: 1px solid rgba(255, 255, 255, 0.2);
+    }
+
+    .header-nav.active {
+        display: flex;
+    }
+
+    .header-nav .nav-link {
+        padding: 10px 14px;
+        text-align: center;
+    }
+
+    #view-tabs {
+        gap: 6px;
+    }
+
+    .view-tab {
+        padding: 6px 14px;
+        font-size: 0.82em;
+    }
+
+    #filters {
+        gap: 6px;
+    }
+
+    #filters input,
+    #filters select,
+    #filters button {
+        padding: 7px 12px;
+        font-size: 0.82em;
+    }
+
+    #filters input[type="text"] {
+        min-width: 100%;
+    }
+
+    #filters select {
+        flex: 1;
+        min-width: 0;
+    }
+
+    #shop-count {
+        font-size: 0.72em;
+    }
+
+    #shop-list {
+        grid-template-columns: 1fr;
+        padding: 12px;
+        gap: 12px;
+    }
+
+    .modal-content {
+        width: 95%;
+        margin: 8% auto;
+        max-height: 88vh;
+    }
+}
+
+/* ===== ローディング ===== */
+.loading-spinner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 60px;
+    color: var(--text-muted);
+}
+
+.loading-spinner::before {
+    content: '';
+    width: 40px;
+    height: 40px;
+    border: 3px solid rgba(46, 125, 50, 0.2);
+    border-top-color: var(--primary);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin-bottom: 16px;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* スクロールバー */
+#list-view::-webkit-scrollbar {
+    width: 6px;
+}
+
+#list-view::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+#list-view::-webkit-scrollbar-thumb {
+    background: rgba(46, 125, 50, 0.3);
+    border-radius: 3px;
+}
+
+#list-view::-webkit-scrollbar-thumb:hover {
+    background: rgba(46, 125, 50, 0.5);
+}
+
+/* ===== 空状態 ===== */
+.empty-state {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--text-muted);
+}
+
+.empty-state .empty-icon {
+    font-size: 3em;
+    margin-bottom: 16px;
+}
+
+.empty-state p {
+    font-size: 1em;
+    line-height: 1.6;
+}

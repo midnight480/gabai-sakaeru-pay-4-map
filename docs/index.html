@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="（非公式）がばいサカえーるPay第4弾マップ - 佐賀市の対象店舗895件を地図で検索。カテゴリ、エリアで絞り込み検索が可能です。">
+    <meta name="theme-color" content="#2E7D32">
+    <meta name="keywords" content="佐賀,がばいサカえーるPay,地域振興券,店舗,地図,検索">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://gabai-sakaeru-pay-4-map.midnight480.com/">
+    <meta property="og:title" content="（非公式）がばいサカえーるPay第4弾マップ">
+    <meta property="og:description" content="佐賀市の対象店舗895件を地図で検索。カテゴリ、エリアで絞り込み検索が可能です。">
+    <meta property="og:image" content="https://gabai-sakaeru-pay-4-map.midnight480.com/images/icon.svg">
+    <meta property="og:locale" content="ja_JP">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://gabai-sakaeru-pay-4-map.midnight480.com/">
+    <meta property="twitter:title" content="（非公式）がばいサカえーるPay第4弾マップ">
+    <meta property="twitter:description" content="佐賀市の対象店舗895件を地図で検索。カテゴリ、エリアで絞り込み検索が可能です。">
+    <meta property="twitter:image" content="https://gabai-sakaeru-pay-4-map.midnight480.com/images/icon.svg">
+
+    <!-- Favicon -->
+    <link rel="icon" href="images/icon.svg" type="image/svg+xml">
+
+    <!-- iOS / PWA specific -->
+    <link rel="apple-touch-icon" href="images/icon.svg">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="サカえーるマップ">
+
+    <title>（非公式）がばいサカえーるPay第4弾マップ</title>
+
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="manifest.json">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&display=swap"
+        rel="stylesheet">
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+
+    <!-- Leaflet MarkerCluster CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div id="app">
+        <header>
+            <div class="header-top">
+                <h1>🏪 （非公式）がばいサカえーるPay<span class="header-badge">第4弾</span></h1>
+                <button id="menu-toggle" class="menu-toggle" aria-label="メニュー">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+            </div>
+            <nav id="header-nav" class="header-nav">
+                <a href="https://gabai-sakayell.city.saga.lg.jp/" target="_blank" rel="noopener noreferrer"
+                    class="nav-link">🔗 公式サイト</a>
+                <a href="#" id="about-link" class="nav-link">📖 このサイトについて</a>
+                <a href="#" id="contact-link" class="nav-link">📞 お問い合わせ先</a>
+            </nav>
+            <div id="view-tabs">
+                <button class="view-tab active" data-view="map">🗺️ 地図で見る</button>
+                <button class="view-tab" data-view="list">📋 一覧で見る</button>
+            </div>
+            <div id="filters">
+                <input type="text" id="filter-text" placeholder="🔍 店舗名で検索...">
+                <select id="filter-category">
+                    <option value="">すべてのカテゴリ</option>
+                </select>
+                <select id="filter-area">
+                    <option value="">すべてのエリア</option>
+                </select>
+                <button id="reset-filters">✕ クリア</button>
+            </div>
+            <div id="shop-count">表示中: <span id="displayed-count">0</span> / <span id="total-count">0</span>店舗</div>
+        </header>
+        <div id="map" class="view-content active"></div>
+        <div id="list-view" class="view-content">
+            <div id="shop-list"></div>
+        </div>
+    </div>
+
+    <!-- Shop Modal -->
+    <div id="shop-modal" class="modal">
+        <div class="modal-content" id="shop-modal-content">
+        </div>
+    </div>
+
+    <!-- Info Modal -->
+    <div id="info-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="info-modal-title"></h2>
+                <button class="modal-close" onclick="closeInfoModal()">&times;</button>
+            </div>
+            <div class="modal-body" id="info-modal-body">
+            </div>
+        </div>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+    <!-- Leaflet MarkerCluster JS -->
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+
+    <!-- App JS -->
+    <script src="script.js"></script>
+
+    <!-- PWA Service Worker Registration -->
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('sw.js')
+                    .then(registration => {
+                        console.log('Service Worker registered with scope:', registration.scope);
+                    })
+                    .catch(error => {
+                        console.log('Service Worker registration failed:', error);
+                    });
+            });
+        }
+    </script>
+</body>
+
+</html>
